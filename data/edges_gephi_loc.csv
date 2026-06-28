@@ -1,0 +1,2352 @@
+source,target,weight
+guadalajara (jalisco  mexico),tarazona (spain),1
+guadalajara (jalisco  mexico),nueva vizcaya (mexico),26
+guadalajara (jalisco  mexico),madrid (spain),21
+guadalajara (jalisco  mexico),puebla (mexico),3
+nueva vizcaya (mexico),tarazona (spain),1
+madrid (spain),tarazona (spain),1
+puebla (mexico),tarazona (spain),1
+madrid (spain),nueva vizcaya (mexico),70
+nueva vizcaya (mexico),puebla (mexico),4
+madrid (spain),puebla (mexico),4
+madrid (spain),mexico city (mexico),9
+mexico city (mexico),nueva vizcaya (mexico),9
+galicia (spain),nueva vizcaya (mexico),10
+galicia (spain),madrid (spain),9
+galicia (spain),guadalajara (jalisco  mexico),10
+hidalgo del parral (chihuahua  mexico),nueva vizcaya (mexico),17
+cerro gordo (durango  mexico) ,nueva vizcaya (mexico),14
+hidalgo del parral (chihuahua  mexico),madrid (spain),20
+cerro gordo (durango  mexico) ,madrid (spain),13
+cerro gordo (durango  mexico) ,hidalgo del parral (chihuahua  mexico),6
+nueva vizcaya (mexico),sonora (mexico),18
+madrid (spain),sonora (mexico),20
+papigochic (mexico) ,sonora (mexico),1
+sonora (mexico),villa de aguilar (mexico) ,2
+hidalgo del parral (chihuahua  mexico),sonora (mexico),4
+nueva vizcaya (mexico),papigochic (mexico) ,1
+nueva vizcaya (mexico),villa de aguilar (mexico) ,3
+madrid (spain),papigochic (mexico) ,1
+madrid (spain),villa de aguilar (mexico) ,3
+papigochic (mexico) ,villa de aguilar (mexico) ,1
+hidalgo del parral (chihuahua  mexico),papigochic (mexico) ,1
+hidalgo del parral (chihuahua  mexico),villa de aguilar (mexico) ,1
+sinaloa (mexico),sonora (mexico),23
+san sebastián (sinaloa  mexico) ,sonora (mexico),4
+buen retiro (madrid  spain),sonora (mexico),5
+san sebastián (sinaloa  mexico) ,sinaloa (mexico),9
+nueva vizcaya (mexico),sinaloa (mexico),25
+madrid (spain),sinaloa (mexico),38
+sinaloa (mexico),villa de aguilar (mexico) ,1
+buen retiro (madrid  spain),sinaloa (mexico),5
+nueva vizcaya (mexico),san sebastián (sinaloa  mexico) ,10
+madrid (spain),san sebastián (sinaloa  mexico) ,10
+san sebastián (sinaloa  mexico) ,villa de aguilar (mexico) ,1
+buen retiro (madrid  spain),san sebastián (sinaloa  mexico) ,1
+buen retiro (madrid  spain),nueva vizcaya (mexico),15
+buen retiro (madrid  spain),madrid (spain),7
+buen retiro (madrid  spain),villa de aguilar (mexico) ,2
+durango (durango  mexico),nueva vizcaya (mexico),24
+durango (durango  mexico),madrid (spain),22
+durango (durango  mexico),new mexico,4
+durango (durango  mexico),villa de aguilar (mexico) ,1
+buen retiro (madrid  spain),durango (durango  mexico),4
+durango (durango  mexico),san francisco del oro (chihuahua  mexico),6
+new mexico,nueva vizcaya (mexico),10
+nueva vizcaya (mexico),san francisco del oro (chihuahua  mexico),14
+madrid (spain),new mexico,9
+madrid (spain),san francisco del oro (chihuahua  mexico),12
+new mexico,villa de aguilar (mexico) ,1
+buen retiro (madrid  spain),new mexico,3
+new mexico,san francisco del oro (chihuahua  mexico),5
+san francisco del oro (chihuahua  mexico),villa de aguilar (mexico) ,1
+buen retiro (madrid  spain),san francisco del oro (chihuahua  mexico),3
+hopi (ariz.),nueva vizcaya (mexico),4
+hopi (ariz.),madrid (spain),3
+buen retiro (madrid  spain),hopi (ariz.),2
+hidalgo del parral (chihuahua  mexico),hopi (ariz.),2
+buen retiro (madrid  spain),hidalgo del parral (chihuahua  mexico),2
+saltillo (coahuila  mexico),sinaloa (mexico),3
+san hipólito (durango  mexico) ,sinaloa (mexico),4
+atotonilco el alto (mexico),sinaloa (mexico),1
+cuencamé (durango  mexico),sinaloa (mexico),4
+mapimí (durango  mexico),sinaloa (mexico),2
+parras de la fuente (coahuila  mexico),sinaloa (mexico),2
+san juan del río (durango  mexico),sinaloa (mexico),1
+mazapil (zacatecas  mexico),sinaloa (mexico),2
+sinaloa (mexico),tepehuanes (durango  mexico),2
+hidalgo del parral (chihuahua  mexico),sinaloa (mexico),6
+saltillo (coahuila  mexico),san sebastián (sinaloa  mexico) ,2
+saltillo (coahuila  mexico),san hipólito (durango  mexico) ,2
+atotonilco el alto (mexico),saltillo (coahuila  mexico),1
+nueva vizcaya (mexico),saltillo (coahuila  mexico),4
+madrid (spain),saltillo (coahuila  mexico),4
+cuencamé (durango  mexico),saltillo (coahuila  mexico),1
+mapimí (durango  mexico),saltillo (coahuila  mexico),1
+parras de la fuente (coahuila  mexico),saltillo (coahuila  mexico),3
+saltillo (coahuila  mexico),san juan del río (durango  mexico),1
+mazapil (zacatecas  mexico),saltillo (coahuila  mexico),2
+saltillo (coahuila  mexico),tepehuanes (durango  mexico),2
+hidalgo del parral (chihuahua  mexico),saltillo (coahuila  mexico),4
+san hipólito (durango  mexico) ,san sebastián (sinaloa  mexico) ,5
+atotonilco el alto (mexico),san sebastián (sinaloa  mexico) ,1
+cuencamé (durango  mexico),san sebastián (sinaloa  mexico) ,5
+mapimí (durango  mexico),san sebastián (sinaloa  mexico) ,1
+parras de la fuente (coahuila  mexico),san sebastián (sinaloa  mexico) ,2
+san juan del río (durango  mexico),san sebastián (sinaloa  mexico) ,1
+mazapil (zacatecas  mexico),san sebastián (sinaloa  mexico) ,1
+san sebastián (sinaloa  mexico) ,tepehuanes (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),san sebastián (sinaloa  mexico) ,5
+atotonilco el alto (mexico),san hipólito (durango  mexico) ,1
+nueva vizcaya (mexico),san hipólito (durango  mexico) ,5
+madrid (spain),san hipólito (durango  mexico) ,5
+cuencamé (durango  mexico),san hipólito (durango  mexico) ,2
+mapimí (durango  mexico),san hipólito (durango  mexico) ,1
+parras de la fuente (coahuila  mexico),san hipólito (durango  mexico) ,2
+san hipólito (durango  mexico) ,san juan del río (durango  mexico),1
+mazapil (zacatecas  mexico),san hipólito (durango  mexico) ,1
+san hipólito (durango  mexico) ,tepehuanes (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),san hipólito (durango  mexico) ,4
+atotonilco el alto (mexico),nueva vizcaya (mexico),1
+atotonilco el alto (mexico),madrid (spain),1
+atotonilco el alto (mexico),cuencamé (durango  mexico),1
+atotonilco el alto (mexico),mapimí (durango  mexico),1
+atotonilco el alto (mexico),parras de la fuente (coahuila  mexico),1
+atotonilco el alto (mexico),san juan del río (durango  mexico),1
+atotonilco el alto (mexico),mazapil (zacatecas  mexico),1
+atotonilco el alto (mexico),tepehuanes (durango  mexico),1
+atotonilco el alto (mexico),hidalgo del parral (chihuahua  mexico),1
+cuencamé (durango  mexico),nueva vizcaya (mexico),6
+mapimí (durango  mexico),nueva vizcaya (mexico),6
+nueva vizcaya (mexico),parras de la fuente (coahuila  mexico),4
+nueva vizcaya (mexico),san juan del río (durango  mexico),1
+mazapil (zacatecas  mexico),nueva vizcaya (mexico),2
+nueva vizcaya (mexico),tepehuanes (durango  mexico),2
+cuencamé (durango  mexico),madrid (spain),6
+madrid (spain),mapimí (durango  mexico),7
+madrid (spain),parras de la fuente (coahuila  mexico),3
+madrid (spain),san juan del río (durango  mexico),1
+madrid (spain),mazapil (zacatecas  mexico),2
+madrid (spain),tepehuanes (durango  mexico),2
+cuencamé (durango  mexico),mapimí (durango  mexico),1
+cuencamé (durango  mexico),parras de la fuente (coahuila  mexico),1
+cuencamé (durango  mexico),san juan del río (durango  mexico),1
+cuencamé (durango  mexico),mazapil (zacatecas  mexico),1
+cuencamé (durango  mexico),tepehuanes (durango  mexico),1
+cuencamé (durango  mexico),hidalgo del parral (chihuahua  mexico),2
+mapimí (durango  mexico),parras de la fuente (coahuila  mexico),1
+mapimí (durango  mexico),san juan del río (durango  mexico),1
+mapimí (durango  mexico),mazapil (zacatecas  mexico),1
+mapimí (durango  mexico),tepehuanes (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),mapimí (durango  mexico),1
+parras de la fuente (coahuila  mexico),san juan del río (durango  mexico),1
+mazapil (zacatecas  mexico),parras de la fuente (coahuila  mexico),1
+parras de la fuente (coahuila  mexico),tepehuanes (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),parras de la fuente (coahuila  mexico),3
+mazapil (zacatecas  mexico),san juan del río (durango  mexico),1
+san juan del río (durango  mexico),tepehuanes (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),san juan del río (durango  mexico),1
+mazapil (zacatecas  mexico),tepehuanes (durango  mexico),2
+hidalgo del parral (chihuahua  mexico),mazapil (zacatecas  mexico),2
+hidalgo del parral (chihuahua  mexico),tepehuanes (durango  mexico),2
+durango (durango  mexico),mexico city (mexico),4
+labrador (n.l.),nueva vizcaya (mexico),4
+durango (durango  mexico),labrador (n.l.),3
+durango (durango  mexico),hidalgo del parral (chihuahua  mexico),7
+durango (durango  mexico),san andrés (chihuahua  mexico) ,1
+saltillo (coahuila  mexico),san andrés (chihuahua  mexico) ,1
+madrid (spain),san andrés (chihuahua  mexico) ,1
+rosario (sinaloa  mexico),san andrés (chihuahua  mexico) ,1
+puebla (mexico),san andrés (chihuahua  mexico) ,1
+nueva vizcaya (mexico),san andrés (chihuahua  mexico) ,1
+copala (sinaloa  mexico) ,san andrés (chihuahua  mexico) ,1
+ostimuri (mexico) ,san andrés (chihuahua  mexico) ,1
+san andrés (chihuahua  mexico) ,santa catarina (durango  mexico),1
+san andrés (chihuahua  mexico) ,san ildefonso (sonora  mexico) ,1
+peru,san andrés (chihuahua  mexico) ,1
+san andrés (chihuahua  mexico) ,sonora (mexico),1
+guadalajara (jalisco  mexico),san andrés (chihuahua  mexico) ,1
+san andrés (chihuahua  mexico) ,san hipólito (durango  mexico) ,1
+san andrés (chihuahua  mexico) ,santa ana (sonora  mexico),1
+colorado river,san andrés (chihuahua  mexico) ,1
+hidalgo del parral (chihuahua  mexico),san andrés (chihuahua  mexico) ,1
+san andrés (chihuahua  mexico) ,santa bárbara (chihuahua  mexico),1
+san andrés (chihuahua  mexico) ,sinaloa (mexico),1
+san andrés (chihuahua  mexico) ,san sebastián (sinaloa  mexico) ,1
+san andrés (chihuahua  mexico) ,topia (durango  mexico),1
+san andrés (chihuahua  mexico) ,san diego de minas nuevas (mexico) ,1
+san andrés (chihuahua  mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),san andrés (chihuahua  mexico) ,1
+parras de la fuente (coahuila  mexico),san andrés (chihuahua  mexico) ,1
+san andrés (chihuahua  mexico) ,san francisco del oro (chihuahua  mexico),1
+california (new spain),san andrés (chihuahua  mexico) ,1
+cerro gordo (durango  mexico) ,san andrés (chihuahua  mexico) ,1
+durango (durango  mexico),saltillo (coahuila  mexico),2
+durango (durango  mexico),rosario (sinaloa  mexico),2
+durango (durango  mexico),puebla (mexico),3
+copala (sinaloa  mexico) ,durango (durango  mexico),1
+durango (durango  mexico),ostimuri (mexico) ,2
+durango (durango  mexico),santa catarina (durango  mexico),3
+durango (durango  mexico),san ildefonso (sonora  mexico) ,3
+durango (durango  mexico),peru,2
+durango (durango  mexico),sonora (mexico),4
+durango (durango  mexico),guadalajara (jalisco  mexico),11
+durango (durango  mexico),san hipólito (durango  mexico) ,2
+durango (durango  mexico),santa ana (sonora  mexico),1
+colorado river,durango (durango  mexico),3
+durango (durango  mexico),santa bárbara (chihuahua  mexico),1
+durango (durango  mexico),sinaloa (mexico),6
+durango (durango  mexico),san sebastián (sinaloa  mexico) ,2
+durango (durango  mexico),topia (durango  mexico),1
+durango (durango  mexico),san diego de minas nuevas (mexico) ,1
+durango (durango  mexico),valle de allende (chihuahua  mexico),1
+durango (durango  mexico),guanaceví (durango  mexico),1
+durango (durango  mexico),parras de la fuente (coahuila  mexico),1
+california (new spain),durango (durango  mexico),3
+cerro gordo (durango  mexico) ,durango (durango  mexico),4
+rosario (sinaloa  mexico),saltillo (coahuila  mexico),1
+puebla (mexico),saltillo (coahuila  mexico),2
+copala (sinaloa  mexico) ,saltillo (coahuila  mexico),1
+ostimuri (mexico) ,saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),santa catarina (durango  mexico),1
+saltillo (coahuila  mexico),san ildefonso (sonora  mexico) ,2
+peru,saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),sonora (mexico),2
+guadalajara (jalisco  mexico),saltillo (coahuila  mexico),2
+saltillo (coahuila  mexico),santa ana (sonora  mexico),1
+colorado river,saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),santa bárbara (chihuahua  mexico),1
+saltillo (coahuila  mexico),topia (durango  mexico),1
+saltillo (coahuila  mexico),san diego de minas nuevas (mexico) ,1
+saltillo (coahuila  mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),san francisco del oro (chihuahua  mexico),2
+california (new spain),saltillo (coahuila  mexico),2
+cerro gordo (durango  mexico) ,saltillo (coahuila  mexico),2
+madrid (spain),rosario (sinaloa  mexico),3
+copala (sinaloa  mexico) ,madrid (spain),1
+madrid (spain),ostimuri (mexico) ,2
+madrid (spain),santa catarina (durango  mexico),3
+madrid (spain),san ildefonso (sonora  mexico) ,4
+madrid (spain),peru,3
+madrid (spain),santa ana (sonora  mexico),4
+colorado river,madrid (spain),2
+madrid (spain),santa bárbara (chihuahua  mexico),1
+madrid (spain),topia (durango  mexico),1
+madrid (spain),san diego de minas nuevas (mexico) ,1
+madrid (spain),valle de allende (chihuahua  mexico),4
+guanaceví (durango  mexico),madrid (spain),1
+california (new spain),madrid (spain),7
+puebla (mexico),rosario (sinaloa  mexico),1
+nueva vizcaya (mexico),rosario (sinaloa  mexico),5
+copala (sinaloa  mexico) ,rosario (sinaloa  mexico),1
+ostimuri (mexico) ,rosario (sinaloa  mexico),5
+rosario (sinaloa  mexico),santa catarina (durango  mexico),1
+rosario (sinaloa  mexico),san ildefonso (sonora  mexico) ,1
+peru,rosario (sinaloa  mexico),1
+rosario (sinaloa  mexico),sonora (mexico),4
+guadalajara (jalisco  mexico),rosario (sinaloa  mexico),5
+rosario (sinaloa  mexico),san hipólito (durango  mexico) ,1
+rosario (sinaloa  mexico),santa ana (sonora  mexico),1
+colorado river,rosario (sinaloa  mexico),1
+hidalgo del parral (chihuahua  mexico),rosario (sinaloa  mexico),1
+rosario (sinaloa  mexico),santa bárbara (chihuahua  mexico),1
+rosario (sinaloa  mexico),sinaloa (mexico),6
+rosario (sinaloa  mexico),san sebastián (sinaloa  mexico) ,1
+rosario (sinaloa  mexico),topia (durango  mexico),1
+rosario (sinaloa  mexico),san diego de minas nuevas (mexico) ,1
+rosario (sinaloa  mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),rosario (sinaloa  mexico),1
+parras de la fuente (coahuila  mexico),rosario (sinaloa  mexico),1
+rosario (sinaloa  mexico),san francisco del oro (chihuahua  mexico),1
+california (new spain),rosario (sinaloa  mexico),2
+cerro gordo (durango  mexico) ,rosario (sinaloa  mexico),1
+copala (sinaloa  mexico) ,puebla (mexico),1
+ostimuri (mexico) ,puebla (mexico),1
+puebla (mexico),santa catarina (durango  mexico),1
+puebla (mexico),san ildefonso (sonora  mexico) ,1
+peru,puebla (mexico),1
+puebla (mexico),sonora (mexico),2
+puebla (mexico),san hipólito (durango  mexico) ,1
+puebla (mexico),santa ana (sonora  mexico),1
+colorado river,puebla (mexico),2
+hidalgo del parral (chihuahua  mexico),puebla (mexico),3
+puebla (mexico),santa bárbara (chihuahua  mexico),1
+puebla (mexico),sinaloa (mexico),3
+puebla (mexico),san sebastián (sinaloa  mexico) ,1
+puebla (mexico),topia (durango  mexico),1
+puebla (mexico),san diego de minas nuevas (mexico) ,1
+puebla (mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),puebla (mexico),1
+parras de la fuente (coahuila  mexico),puebla (mexico),1
+puebla (mexico),san francisco del oro (chihuahua  mexico),2
+california (new spain),puebla (mexico),2
+cerro gordo (durango  mexico) ,puebla (mexico),2
+copala (sinaloa  mexico) ,nueva vizcaya (mexico),1
+nueva vizcaya (mexico),ostimuri (mexico) ,4
+nueva vizcaya (mexico),santa catarina (durango  mexico),5
+nueva vizcaya (mexico),san ildefonso (sonora  mexico) ,11
+nueva vizcaya (mexico),peru,2
+nueva vizcaya (mexico),santa ana (sonora  mexico),4
+colorado river,nueva vizcaya (mexico),3
+nueva vizcaya (mexico),santa bárbara (chihuahua  mexico),1
+nueva vizcaya (mexico),topia (durango  mexico),1
+nueva vizcaya (mexico),san diego de minas nuevas (mexico) ,1
+nueva vizcaya (mexico),valle de allende (chihuahua  mexico),4
+guanaceví (durango  mexico),nueva vizcaya (mexico),1
+california (new spain),nueva vizcaya (mexico),7
+copala (sinaloa  mexico) ,ostimuri (mexico) ,1
+copala (sinaloa  mexico) ,santa catarina (durango  mexico),1
+copala (sinaloa  mexico) ,san ildefonso (sonora  mexico) ,1
+copala (sinaloa  mexico) ,peru,1
+copala (sinaloa  mexico) ,sonora (mexico),1
+copala (sinaloa  mexico) ,guadalajara (jalisco  mexico),1
+copala (sinaloa  mexico) ,san hipólito (durango  mexico) ,1
+copala (sinaloa  mexico) ,santa ana (sonora  mexico),1
+colorado river,copala (sinaloa  mexico) ,1
+copala (sinaloa  mexico) ,hidalgo del parral (chihuahua  mexico),1
+copala (sinaloa  mexico) ,santa bárbara (chihuahua  mexico),1
+copala (sinaloa  mexico) ,sinaloa (mexico),1
+copala (sinaloa  mexico) ,san sebastián (sinaloa  mexico) ,1
+copala (sinaloa  mexico) ,topia (durango  mexico),1
+copala (sinaloa  mexico) ,san diego de minas nuevas (mexico) ,1
+copala (sinaloa  mexico) ,valle de allende (chihuahua  mexico),1
+copala (sinaloa  mexico) ,guanaceví (durango  mexico),1
+copala (sinaloa  mexico) ,parras de la fuente (coahuila  mexico),1
+copala (sinaloa  mexico) ,san francisco del oro (chihuahua  mexico),1
+california (new spain),copala (sinaloa  mexico) ,1
+cerro gordo (durango  mexico) ,copala (sinaloa  mexico) ,1
+ostimuri (mexico) ,santa catarina (durango  mexico),1
+ostimuri (mexico) ,san ildefonso (sonora  mexico) ,1
+ostimuri (mexico) ,peru,1
+ostimuri (mexico) ,sonora (mexico),4
+guadalajara (jalisco  mexico),ostimuri (mexico) ,4
+ostimuri (mexico) ,san hipólito (durango  mexico) ,1
+ostimuri (mexico) ,santa ana (sonora  mexico),1
+colorado river,ostimuri (mexico) ,1
+hidalgo del parral (chihuahua  mexico),ostimuri (mexico) ,1
+ostimuri (mexico) ,santa bárbara (chihuahua  mexico),1
+ostimuri (mexico) ,sinaloa (mexico),5
+ostimuri (mexico) ,san sebastián (sinaloa  mexico) ,1
+ostimuri (mexico) ,topia (durango  mexico),1
+ostimuri (mexico) ,san diego de minas nuevas (mexico) ,1
+ostimuri (mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),ostimuri (mexico) ,1
+ostimuri (mexico) ,parras de la fuente (coahuila  mexico),1
+ostimuri (mexico) ,san francisco del oro (chihuahua  mexico),1
+california (new spain),ostimuri (mexico) ,1
+cerro gordo (durango  mexico) ,ostimuri (mexico) ,1
+san ildefonso (sonora  mexico) ,santa catarina (durango  mexico),1
+peru,santa catarina (durango  mexico),1
+santa catarina (durango  mexico),sonora (mexico),1
+guadalajara (jalisco  mexico),santa catarina (durango  mexico),3
+san hipólito (durango  mexico) ,santa catarina (durango  mexico),3
+santa ana (sonora  mexico),santa catarina (durango  mexico),1
+colorado river,santa catarina (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),santa catarina (durango  mexico),3
+santa bárbara (chihuahua  mexico),santa catarina (durango  mexico),1
+santa catarina (durango  mexico),sinaloa (mexico),3
+san sebastián (sinaloa  mexico) ,santa catarina (durango  mexico),3
+santa catarina (durango  mexico),topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,santa catarina (durango  mexico),1
+santa catarina (durango  mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),santa catarina (durango  mexico),1
+parras de la fuente (coahuila  mexico),santa catarina (durango  mexico),1
+san francisco del oro (chihuahua  mexico),santa catarina (durango  mexico),2
+california (new spain),santa catarina (durango  mexico),1
+cerro gordo (durango  mexico) ,santa catarina (durango  mexico),5
+peru,san ildefonso (sonora  mexico) ,1
+san ildefonso (sonora  mexico) ,sonora (mexico),4
+guadalajara (jalisco  mexico),san ildefonso (sonora  mexico) ,4
+san hipólito (durango  mexico) ,san ildefonso (sonora  mexico) ,1
+san ildefonso (sonora  mexico) ,santa ana (sonora  mexico),1
+colorado river,san ildefonso (sonora  mexico) ,1
+hidalgo del parral (chihuahua  mexico),san ildefonso (sonora  mexico) ,2
+san ildefonso (sonora  mexico) ,santa bárbara (chihuahua  mexico),1
+san ildefonso (sonora  mexico) ,sinaloa (mexico),6
+san ildefonso (sonora  mexico) ,san sebastián (sinaloa  mexico) ,1
+san ildefonso (sonora  mexico) ,topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,san ildefonso (sonora  mexico) ,1
+san ildefonso (sonora  mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),san ildefonso (sonora  mexico) ,1
+parras de la fuente (coahuila  mexico),san ildefonso (sonora  mexico) ,2
+san francisco del oro (chihuahua  mexico),san ildefonso (sonora  mexico) ,1
+california (new spain),san ildefonso (sonora  mexico) ,1
+cerro gordo (durango  mexico) ,san ildefonso (sonora  mexico) ,1
+peru,sonora (mexico),1
+guadalajara (jalisco  mexico),peru,3
+peru,san hipólito (durango  mexico) ,1
+peru,santa ana (sonora  mexico),1
+colorado river,peru,1
+hidalgo del parral (chihuahua  mexico),peru,2
+peru,santa bárbara (chihuahua  mexico),1
+peru,sinaloa (mexico),1
+peru,san sebastián (sinaloa  mexico) ,1
+peru,topia (durango  mexico),1
+peru,san diego de minas nuevas (mexico) ,1
+peru,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),peru,1
+parras de la fuente (coahuila  mexico),peru,1
+peru,san francisco del oro (chihuahua  mexico),1
+california (new spain),peru,1
+cerro gordo (durango  mexico) ,peru,1
+guadalajara (jalisco  mexico),sonora (mexico),10
+san hipólito (durango  mexico) ,sonora (mexico),1
+santa ana (sonora  mexico),sonora (mexico),2
+colorado river,sonora (mexico),3
+santa bárbara (chihuahua  mexico),sonora (mexico),1
+sonora (mexico),topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,sonora (mexico),1
+sonora (mexico),valle de allende (chihuahua  mexico),2
+guanaceví (durango  mexico),sonora (mexico),1
+parras de la fuente (coahuila  mexico),sonora (mexico),1
+san francisco del oro (chihuahua  mexico),sonora (mexico),4
+california (new spain),sonora (mexico),5
+cerro gordo (durango  mexico) ,sonora (mexico),5
+guadalajara (jalisco  mexico),san hipólito (durango  mexico) ,3
+guadalajara (jalisco  mexico),santa ana (sonora  mexico),1
+colorado river,guadalajara (jalisco  mexico),2
+guadalajara (jalisco  mexico),hidalgo del parral (chihuahua  mexico),6
+guadalajara (jalisco  mexico),santa bárbara (chihuahua  mexico),1
+guadalajara (jalisco  mexico),sinaloa (mexico),16
+guadalajara (jalisco  mexico),san sebastián (sinaloa  mexico) ,5
+guadalajara (jalisco  mexico),topia (durango  mexico),1
+guadalajara (jalisco  mexico),san diego de minas nuevas (mexico) ,1
+guadalajara (jalisco  mexico),valle de allende (chihuahua  mexico),2
+guadalajara (jalisco  mexico),guanaceví (durango  mexico),1
+guadalajara (jalisco  mexico),parras de la fuente (coahuila  mexico),1
+guadalajara (jalisco  mexico),san francisco del oro (chihuahua  mexico),6
+california (new spain),guadalajara (jalisco  mexico),6
+cerro gordo (durango  mexico) ,guadalajara (jalisco  mexico),6
+san hipólito (durango  mexico) ,santa ana (sonora  mexico),1
+colorado river,san hipólito (durango  mexico) ,1
+san hipólito (durango  mexico) ,santa bárbara (chihuahua  mexico),1
+san hipólito (durango  mexico) ,topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,san hipólito (durango  mexico) ,1
+san hipólito (durango  mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),san hipólito (durango  mexico) ,1
+san francisco del oro (chihuahua  mexico),san hipólito (durango  mexico) ,2
+california (new spain),san hipólito (durango  mexico) ,1
+cerro gordo (durango  mexico) ,san hipólito (durango  mexico) ,4
+colorado river,santa ana (sonora  mexico),2
+hidalgo del parral (chihuahua  mexico),santa ana (sonora  mexico),1
+santa ana (sonora  mexico),santa bárbara (chihuahua  mexico),1
+santa ana (sonora  mexico),sinaloa (mexico),2
+san sebastián (sinaloa  mexico) ,santa ana (sonora  mexico),1
+santa ana (sonora  mexico),topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,santa ana (sonora  mexico),1
+santa ana (sonora  mexico),valle de allende (chihuahua  mexico),2
+guanaceví (durango  mexico),santa ana (sonora  mexico),1
+parras de la fuente (coahuila  mexico),santa ana (sonora  mexico),1
+san francisco del oro (chihuahua  mexico),santa ana (sonora  mexico),3
+california (new spain),santa ana (sonora  mexico),2
+cerro gordo (durango  mexico) ,santa ana (sonora  mexico),2
+colorado river,hidalgo del parral (chihuahua  mexico),1
+colorado river,santa bárbara (chihuahua  mexico),1
+colorado river,sinaloa (mexico),3
+colorado river,san sebastián (sinaloa  mexico) ,1
+colorado river,topia (durango  mexico),1
+colorado river,san diego de minas nuevas (mexico) ,1
+colorado river,valle de allende (chihuahua  mexico),2
+colorado river,guanaceví (durango  mexico),1
+colorado river,parras de la fuente (coahuila  mexico),1
+colorado river,san francisco del oro (chihuahua  mexico),1
+california (new spain),colorado river,3
+cerro gordo (durango  mexico) ,colorado river,2
+hidalgo del parral (chihuahua  mexico),santa bárbara (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),topia (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),san diego de minas nuevas (mexico) ,1
+hidalgo del parral (chihuahua  mexico),valle de allende (chihuahua  mexico),2
+guanaceví (durango  mexico),hidalgo del parral (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),san francisco del oro (chihuahua  mexico),6
+california (new spain),hidalgo del parral (chihuahua  mexico),2
+santa bárbara (chihuahua  mexico),sinaloa (mexico),1
+san sebastián (sinaloa  mexico) ,santa bárbara (chihuahua  mexico),1
+santa bárbara (chihuahua  mexico),topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,santa bárbara (chihuahua  mexico),1
+santa bárbara (chihuahua  mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),santa bárbara (chihuahua  mexico),1
+parras de la fuente (coahuila  mexico),santa bárbara (chihuahua  mexico),1
+san francisco del oro (chihuahua  mexico),santa bárbara (chihuahua  mexico),1
+california (new spain),santa bárbara (chihuahua  mexico),1
+cerro gordo (durango  mexico) ,santa bárbara (chihuahua  mexico),1
+sinaloa (mexico),topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,sinaloa (mexico),1
+sinaloa (mexico),valle de allende (chihuahua  mexico),2
+guanaceví (durango  mexico),sinaloa (mexico),1
+san francisco del oro (chihuahua  mexico),sinaloa (mexico),6
+california (new spain),sinaloa (mexico),9
+cerro gordo (durango  mexico) ,sinaloa (mexico),9
+san sebastián (sinaloa  mexico) ,topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,san sebastián (sinaloa  mexico) ,1
+san sebastián (sinaloa  mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),san sebastián (sinaloa  mexico) ,1
+san francisco del oro (chihuahua  mexico),san sebastián (sinaloa  mexico) ,5
+california (new spain),san sebastián (sinaloa  mexico) ,3
+cerro gordo (durango  mexico) ,san sebastián (sinaloa  mexico) ,8
+san diego de minas nuevas (mexico) ,topia (durango  mexico),1
+topia (durango  mexico),valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),topia (durango  mexico),1
+parras de la fuente (coahuila  mexico),topia (durango  mexico),1
+san francisco del oro (chihuahua  mexico),topia (durango  mexico),1
+california (new spain),topia (durango  mexico),1
+cerro gordo (durango  mexico) ,topia (durango  mexico),1
+san diego de minas nuevas (mexico) ,valle de allende (chihuahua  mexico),1
+guanaceví (durango  mexico),san diego de minas nuevas (mexico) ,1
+parras de la fuente (coahuila  mexico),san diego de minas nuevas (mexico) ,1
+san diego de minas nuevas (mexico) ,san francisco del oro (chihuahua  mexico),1
+california (new spain),san diego de minas nuevas (mexico) ,1
+cerro gordo (durango  mexico) ,san diego de minas nuevas (mexico) ,1
+guanaceví (durango  mexico),valle de allende (chihuahua  mexico),1
+parras de la fuente (coahuila  mexico),valle de allende (chihuahua  mexico),1
+san francisco del oro (chihuahua  mexico),valle de allende (chihuahua  mexico),2
+california (new spain),valle de allende (chihuahua  mexico),2
+cerro gordo (durango  mexico) ,valle de allende (chihuahua  mexico),3
+guanaceví (durango  mexico),parras de la fuente (coahuila  mexico),1
+guanaceví (durango  mexico),san francisco del oro (chihuahua  mexico),1
+california (new spain),guanaceví (durango  mexico),1
+cerro gordo (durango  mexico) ,guanaceví (durango  mexico),1
+parras de la fuente (coahuila  mexico),san francisco del oro (chihuahua  mexico),1
+california (new spain),parras de la fuente (coahuila  mexico),1
+cerro gordo (durango  mexico) ,parras de la fuente (coahuila  mexico),1
+california (new spain),san francisco del oro (chihuahua  mexico),4
+cerro gordo (durango  mexico) ,san francisco del oro (chihuahua  mexico),6
+california (new spain),cerro gordo (durango  mexico) ,5
+guadiana (california  mexico),sonora (mexico),1
+castile (spain),sonora (mexico),2
+guadalajara (jalisco  mexico),guadiana (california  mexico),2
+castile (spain),guadalajara (jalisco  mexico),2
+guadiana (california  mexico),nueva vizcaya (mexico),4
+castile (spain),nueva vizcaya (mexico),2
+guadiana (california  mexico),madrid (spain),3
+castile (spain),madrid (spain),3
+castile (spain),guadiana (california  mexico),1
+durango (durango  mexico),nuevo león (mexico),3
+corrales (mexico) ,durango (durango  mexico),1
+durango (durango  mexico),gila river (n.m. and ariz.),3
+durango (durango  mexico),el gallo (durango  mexico) ,2
+guadalajara (jalisco  mexico),nuevo león (mexico),4
+corrales (mexico) ,guadalajara (jalisco  mexico),1
+gila river (n.m. and ariz.),guadalajara (jalisco  mexico),4
+el gallo (durango  mexico) ,guadalajara (jalisco  mexico),4
+nuevo león (mexico),santa catarina (durango  mexico),1
+corrales (mexico) ,santa catarina (durango  mexico),1
+gila river (n.m. and ariz.),santa catarina (durango  mexico),2
+el gallo (durango  mexico) ,santa catarina (durango  mexico),1
+nuevo león (mexico),sinaloa (mexico),4
+corrales (mexico) ,sinaloa (mexico),1
+gila river (n.m. and ariz.),sinaloa (mexico),7
+el gallo (durango  mexico) ,sinaloa (mexico),6
+nuevo león (mexico),san sebastián (sinaloa  mexico) ,1
+corrales (mexico) ,san sebastián (sinaloa  mexico) ,1
+gila river (n.m. and ariz.),san sebastián (sinaloa  mexico) ,1
+el gallo (durango  mexico) ,san sebastián (sinaloa  mexico) ,5
+nuevo león (mexico),san hipólito (durango  mexico) ,1
+corrales (mexico) ,san hipólito (durango  mexico) ,1
+gila river (n.m. and ariz.),san hipólito (durango  mexico) ,1
+el gallo (durango  mexico) ,san hipólito (durango  mexico) ,2
+nueva vizcaya (mexico),nuevo león (mexico),4
+madrid (spain),nuevo león (mexico),4
+corrales (mexico) ,nuevo león (mexico),1
+gila river (n.m. and ariz.),nuevo león (mexico),3
+nuevo león (mexico),san francisco del oro (chihuahua  mexico),2
+hidalgo del parral (chihuahua  mexico),nuevo león (mexico),2
+el gallo (durango  mexico) ,nuevo león (mexico),2
+cerro gordo (durango  mexico) ,nuevo león (mexico),2
+corrales (mexico) ,nueva vizcaya (mexico),1
+gila river (n.m. and ariz.),nueva vizcaya (mexico),8
+el gallo (durango  mexico) ,nueva vizcaya (mexico),10
+corrales (mexico) ,madrid (spain),1
+gila river (n.m. and ariz.),madrid (spain),7
+el gallo (durango  mexico) ,madrid (spain),10
+corrales (mexico) ,gila river (n.m. and ariz.),1
+corrales (mexico) ,san francisco del oro (chihuahua  mexico),1
+corrales (mexico) ,hidalgo del parral (chihuahua  mexico),1
+corrales (mexico) ,el gallo (durango  mexico) ,1
+cerro gordo (durango  mexico) ,corrales (mexico) ,1
+gila river (n.m. and ariz.),san francisco del oro (chihuahua  mexico),2
+gila river (n.m. and ariz.),hidalgo del parral (chihuahua  mexico),3
+el gallo (durango  mexico) ,gila river (n.m. and ariz.),3
+cerro gordo (durango  mexico) ,gila river (n.m. and ariz.),4
+el gallo (durango  mexico) ,san francisco del oro (chihuahua  mexico),6
+el gallo (durango  mexico) ,hidalgo del parral (chihuahua  mexico),3
+cerro gordo (durango  mexico) ,el gallo (durango  mexico) ,8
+galicia (spain),san francisco de conchos (chihuahua  mexico),4
+galicia (spain),new mexico,5
+galicia (spain),rio grande,1
+buen retiro (madrid  spain),galicia (spain),2
+galicia (spain),guadiana (california  mexico),1
+galicia (spain),san francisco del oro (chihuahua  mexico),4
+galicia (spain),hidalgo del parral (chihuahua  mexico),3
+nueva vizcaya (mexico),san francisco de conchos (chihuahua  mexico),7
+new mexico,san francisco de conchos (chihuahua  mexico),4
+rio grande,san francisco de conchos (chihuahua  mexico),1
+buen retiro (madrid  spain),san francisco de conchos (chihuahua  mexico),1
+guadiana (california  mexico),san francisco de conchos (chihuahua  mexico),1
+san francisco de conchos (chihuahua  mexico),san francisco del oro (chihuahua  mexico),6
+hidalgo del parral (chihuahua  mexico),san francisco de conchos (chihuahua  mexico),4
+nueva vizcaya (mexico),rio grande,5
+new mexico,rio grande,2
+guadiana (california  mexico),new mexico,2
+hidalgo del parral (chihuahua  mexico),new mexico,2
+buen retiro (madrid  spain),rio grande,1
+guadiana (california  mexico),rio grande,1
+rio grande,san francisco del oro (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),rio grande,1
+buen retiro (madrid  spain),guadiana (california  mexico),2
+guadiana (california  mexico),san francisco del oro (chihuahua  mexico),1
+guadiana (california  mexico),hidalgo del parral (chihuahua  mexico),2
+hidalgo del parral (chihuahua  mexico),mexico city (mexico),1
+guadiana (california  mexico),mexico city (mexico),2
+durango (durango  mexico),galicia (spain),4
+galicia (spain),mexico city (mexico),2
+guadalajara (jalisco  mexico),mexico city (mexico),4
+new mexico,san sebastián (sinaloa  mexico) ,3
+san sebastián (sinaloa  mexico) ,sombrerete (zacatecas  mexico),3
+new mexico,san hipólito (durango  mexico) ,1
+san hipólito (durango  mexico) ,sombrerete (zacatecas  mexico),1
+nueva vizcaya (mexico),sombrerete (zacatecas  mexico),4
+madrid (spain),sombrerete (zacatecas  mexico),4
+cuencamé (durango  mexico),new mexico,3
+cuencamé (durango  mexico),sombrerete (zacatecas  mexico),3
+cuencamé (durango  mexico),el gallo (durango  mexico) ,5
+cerro gordo (durango  mexico) ,cuencamé (durango  mexico),4
+new mexico,sombrerete (zacatecas  mexico),3
+el gallo (durango  mexico) ,new mexico,4
+cerro gordo (durango  mexico) ,new mexico,4
+el gallo (durango  mexico) ,sombrerete (zacatecas  mexico),3
+cerro gordo (durango  mexico) ,sombrerete (zacatecas  mexico),3
+galicia (spain),sinaloa (mexico),5
+galicia (spain),san sebastián (sinaloa  mexico) ,2
+cuencamé (durango  mexico),galicia (spain),2
+galicia (spain),sombrerete (zacatecas  mexico),2
+el gallo (durango  mexico) ,galicia (spain),3
+california (new spain),galicia (spain),4
+galicia (spain),zacatecas (zacatecas  mexico),2
+cerro gordo (durango  mexico) ,galicia (spain),3
+guadalajara (jalisco  mexico),san francisco de conchos (chihuahua  mexico),3
+san francisco de conchos (chihuahua  mexico),sinaloa (mexico),4
+san francisco de conchos (chihuahua  mexico),san sebastián (sinaloa  mexico) ,3
+madrid (spain),san francisco de conchos (chihuahua  mexico),6
+cuencamé (durango  mexico),san francisco de conchos (chihuahua  mexico),4
+san francisco de conchos (chihuahua  mexico),sombrerete (zacatecas  mexico),2
+el gallo (durango  mexico) ,san francisco de conchos (chihuahua  mexico),5
+california (new spain),san francisco de conchos (chihuahua  mexico),3
+san francisco de conchos (chihuahua  mexico),zacatecas (zacatecas  mexico),2
+cerro gordo (durango  mexico) ,san francisco de conchos (chihuahua  mexico),4
+cuencamé (durango  mexico),guadalajara (jalisco  mexico),2
+guadalajara (jalisco  mexico),new mexico,6
+guadalajara (jalisco  mexico),sombrerete (zacatecas  mexico),2
+guadalajara (jalisco  mexico),zacatecas (zacatecas  mexico),3
+new mexico,sinaloa (mexico),6
+sinaloa (mexico),sombrerete (zacatecas  mexico),2
+sinaloa (mexico),zacatecas (zacatecas  mexico),2
+san sebastián (sinaloa  mexico) ,zacatecas (zacatecas  mexico),2
+nueva vizcaya (mexico),zacatecas (zacatecas  mexico),4
+madrid (spain),zacatecas (zacatecas  mexico),4
+cuencamé (durango  mexico),san francisco del oro (chihuahua  mexico),4
+california (new spain),cuencamé (durango  mexico),2
+cuencamé (durango  mexico),zacatecas (zacatecas  mexico),2
+california (new spain),new mexico,4
+new mexico,zacatecas (zacatecas  mexico),3
+san francisco del oro (chihuahua  mexico),sombrerete (zacatecas  mexico),2
+california (new spain),sombrerete (zacatecas  mexico),2
+sombrerete (zacatecas  mexico),zacatecas (zacatecas  mexico),3
+california (new spain),el gallo (durango  mexico) ,4
+el gallo (durango  mexico) ,zacatecas (zacatecas  mexico),2
+san francisco del oro (chihuahua  mexico),zacatecas (zacatecas  mexico),2
+california (new spain),zacatecas (zacatecas  mexico),2
+cerro gordo (durango  mexico) ,zacatecas (zacatecas  mexico),2
+san francisco de conchos (chihuahua  mexico),sonora (mexico),3
+casas grandes (chihuahua  mexico),san francisco de conchos (chihuahua  mexico),3
+casas grandes (chihuahua  mexico),sonora (mexico),2
+cuencamé (durango  mexico),sonora (mexico),2
+el gallo (durango  mexico) ,sonora (mexico),4
+casas grandes (chihuahua  mexico),sinaloa (mexico),2
+casas grandes (chihuahua  mexico),san sebastián (sinaloa  mexico) ,1
+casas grandes (chihuahua  mexico),nueva vizcaya (mexico),5
+casas grandes (chihuahua  mexico),cuencamé (durango  mexico),2
+casas grandes (chihuahua  mexico),madrid (spain),5
+casas grandes (chihuahua  mexico),el gallo (durango  mexico) ,4
+casas grandes (chihuahua  mexico),san francisco del oro (chihuahua  mexico),3
+casas grandes (chihuahua  mexico),hidalgo del parral (chihuahua  mexico),2
+casas grandes (chihuahua  mexico),cerro gordo (durango  mexico) ,3
+anián  strait of,zimapán (hidalgo  mexico),1
+anián  strait of,santo domingo (dominican republic),1
+anián  strait of,buen retiro (madrid  spain),1
+anián  strait of,mexico city (mexico),1
+anián  strait of,cerro gordo (durango  mexico) ,1
+santo domingo (dominican republic),zimapán (hidalgo  mexico),1
+buen retiro (madrid  spain),zimapán (hidalgo  mexico),1
+mexico city (mexico),zimapán (hidalgo  mexico),1
+cerro gordo (durango  mexico) ,zimapán (hidalgo  mexico),1
+buen retiro (madrid  spain),santo domingo (dominican republic),1
+mexico city (mexico),santo domingo (dominican republic),1
+cerro gordo (durango  mexico) ,santo domingo (dominican republic),1
+buen retiro (madrid  spain),mexico city (mexico),2
+buen retiro (madrid  spain),cerro gordo (durango  mexico) ,5
+cerro gordo (durango  mexico) ,mexico city (mexico),2
+cerro gordo (durango  mexico) ,china,1
+china,durango (durango  mexico),3
+buen retiro (madrid  spain),santa catarina (durango  mexico),2
+mexico city (mexico),santa catarina (durango  mexico),1
+china,santa catarina (durango  mexico),1
+china,nueva vizcaya (mexico),5
+buen retiro (madrid  spain),china,2
+china,mexico city (mexico),1
+durango (durango  mexico),sombrerete (zacatecas  mexico),1
+durango (durango  mexico),zacatecas (zacatecas  mexico),1
+guadalajara (jalisco  mexico),labrador (n.l.),2
+labrador (n.l.),madrid (spain),3
+labrador (n.l.),valle de allende (chihuahua  mexico),1
+labrador (n.l.),san francisco del oro (chihuahua  mexico),2
+hidalgo del parral (chihuahua  mexico),labrador (n.l.),2
+sonora (mexico),teuricachi (sonora  mexico) ,1
+guadalajara (jalisco  mexico),teuricachi (sonora  mexico) ,2
+sinaloa (mexico),teuricachi (sonora  mexico) ,2
+coahuila (mexico),teuricachi (sonora  mexico) ,1
+nuevo león (mexico),teuricachi (sonora  mexico) ,1
+nueva vizcaya (mexico),teuricachi (sonora  mexico) ,2
+madrid (spain),teuricachi (sonora  mexico) ,2
+new mexico,teuricachi (sonora  mexico) ,1
+gila river (n.m. and ariz.),teuricachi (sonora  mexico) ,1
+coahuila (mexico),sonora (mexico),3
+nuevo león (mexico),sonora (mexico),3
+new mexico,sonora (mexico),5
+gila river (n.m. and ariz.),sonora (mexico),5
+coahuila (mexico),guadalajara (jalisco  mexico),3
+coahuila (mexico),sinaloa (mexico),3
+coahuila (mexico),nuevo león (mexico),3
+coahuila (mexico),nueva vizcaya (mexico),4
+coahuila (mexico),madrid (spain),5
+coahuila (mexico),new mexico,3
+coahuila (mexico),gila river (n.m. and ariz.),3
+new mexico,nuevo león (mexico),3
+gila river (n.m. and ariz.),new mexico,3
+el gallo (durango  mexico) ,mapimí (durango  mexico),3
+galicia (spain),sonora (mexico),3
+sombrerete (zacatecas  mexico),sonora (mexico),1
+sonora (mexico),zacatecas (zacatecas  mexico),1
+janos (chihuahua  mexico),sonora (mexico),2
+janos (chihuahua  mexico),sinaloa (mexico),2
+janos (chihuahua  mexico),nueva vizcaya (mexico),4
+janos (chihuahua  mexico),madrid (spain),4
+barcelona (spain),nueva vizcaya (mexico),1
+chihuahua (chihuahua  mexico),galicia (spain),3
+galicia (spain),peru,2
+chihuahua (chihuahua  mexico),durango (durango  mexico),5
+chihuahua (chihuahua  mexico),guadalajara (jalisco  mexico),8
+chihuahua (chihuahua  mexico),nueva vizcaya (mexico),18
+chihuahua (chihuahua  mexico),madrid (spain),11
+chihuahua (chihuahua  mexico),hidalgo del parral (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),peru,2
+jeuricache (sonora  mexico) ,nueva vizcaya (mexico),1
+jeuricache (sonora  mexico) ,madrid (spain),1
+jeuricache (sonora  mexico) ,sinaloa (mexico),1
+guadiana (california  mexico),santa catarina (durango  mexico),1
+papaguirro (mexico) ,santa catarina (durango  mexico),1
+nueva vizcaya (mexico),papaguirro (mexico) ,1
+buen retiro (madrid  spain),papaguirro (mexico) ,1
+buen retiro (madrid  spain),gila river (n.m. and ariz.),2
+guadiana (california  mexico),papaguirro (mexico) ,1
+gila river (n.m. and ariz.),guadiana (california  mexico),1
+cerro gordo (durango  mexico) ,guadiana (california  mexico),1
+gila river (n.m. and ariz.),papaguirro (mexico) ,1
+cerro gordo (durango  mexico) ,papaguirro (mexico) ,1
+buen retiro (madrid  spain),janos (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),san juan de ulúa (veracruz  mexico),1
+nueva vizcaya (mexico),san juan de ulúa (veracruz  mexico),1
+new mexico,san juan de ulúa (veracruz  mexico),1
+san juan de ulúa (veracruz  mexico),veracruz (veracruz  mexico),1
+buen retiro (madrid  spain),san juan de ulúa (veracruz  mexico),1
+chihuahua (chihuahua  mexico),new mexico,2
+chihuahua (chihuahua  mexico),veracruz (veracruz  mexico),2
+buen retiro (madrid  spain),chihuahua (chihuahua  mexico),5
+nueva vizcaya (mexico),veracruz (veracruz  mexico),3
+new mexico,veracruz (veracruz  mexico),1
+buen retiro (madrid  spain),veracruz (veracruz  mexico),2
+guanajuato (guanajuato  mexico),san luis potosí (san luis potosí  mexico),1
+guadalajara (jalisco  mexico),san luis potosí (san luis potosí  mexico),1
+nueva vizcaya (mexico),san luis potosí (san luis potosí  mexico),1
+madrid (spain),san luis potosí (san luis potosí  mexico),1
+new mexico,san luis potosí (san luis potosí  mexico),1
+guadiana (california  mexico),san luis potosí (san luis potosí  mexico),1
+mexico city (mexico),san luis potosí (san luis potosí  mexico),1
+san luis potosí (san luis potosí  mexico),zacatecas (zacatecas  mexico),1
+guadalajara (jalisco  mexico),guanajuato (guanajuato  mexico),1
+guanajuato (guanajuato  mexico),nueva vizcaya (mexico),1
+guanajuato (guanajuato  mexico),madrid (spain),1
+guanajuato (guanajuato  mexico),new mexico,1
+guadiana (california  mexico),guanajuato (guanajuato  mexico),1
+guanajuato (guanajuato  mexico),mexico city (mexico),1
+guanajuato (guanajuato  mexico),zacatecas (zacatecas  mexico),1
+mexico city (mexico),new mexico,1
+guadiana (california  mexico),zacatecas (zacatecas  mexico),1
+mexico city (mexico),zacatecas (zacatecas  mexico),1
+durango (durango  mexico),presidio del pasaje,1
+guadalajara (jalisco  mexico),presidio del pasaje,2
+nueva vizcaya (mexico),presidio del pasaje,6
+casas grandes (chihuahua  mexico),presidio del pasaje,2
+madrid (spain),presidio del pasaje,5
+janos (chihuahua  mexico),presidio del pasaje,1
+pasaje (durango  mexico) ,presidio del pasaje,6
+casas grandes (chihuahua  mexico),durango (durango  mexico),2
+durango (durango  mexico),janos (chihuahua  mexico),3
+durango (durango  mexico),pasaje (durango  mexico) ,2
+casas grandes (chihuahua  mexico),guadalajara (jalisco  mexico),2
+guadalajara (jalisco  mexico),janos (chihuahua  mexico),2
+guadalajara (jalisco  mexico),pasaje (durango  mexico) ,3
+nueva vizcaya (mexico),pasaje (durango  mexico) ,7
+casas grandes (chihuahua  mexico),janos (chihuahua  mexico),2
+casas grandes (chihuahua  mexico),pasaje (durango  mexico) ,3
+madrid (spain),pasaje (durango  mexico) ,6
+janos (chihuahua  mexico),pasaje (durango  mexico) ,2
+madrid (spain),veracruz (veracruz  mexico),1
+nueva vizcaya (mexico),san francisco javier (chihuahua  mexico) ,2
+madrid (spain),san francisco javier (chihuahua  mexico) ,2
+china,madrid (spain),3
+san francisco javier (chihuahua  mexico) ,santa ana (sonora  mexico),2
+china,santa ana (sonora  mexico),2
+san francisco del oro (chihuahua  mexico),san francisco javier (chihuahua  mexico) ,2
+china,san francisco javier (chihuahua  mexico) ,2
+china,san francisco del oro (chihuahua  mexico),4
+alvarado (veracruz-llave  mexico),madrid (spain),1
+madrid (spain),nayarit (mexico),3
+alvarado (veracruz-llave  mexico),hidalgo del parral (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),nayarit (mexico),2
+alvarado (veracruz-llave  mexico),nayarit (mexico),1
+nueva vizcaya (mexico),san lorenzo de el escorial (spain),4
+madrid (spain),san lorenzo de el escorial (spain),3
+durango (durango  mexico),hopi (ariz.),4
+chihuahua (chihuahua  mexico),hopi (ariz.),2
+chihuahua (chihuahua  mexico),san francisco del oro (chihuahua  mexico),2
+chihuahua (chihuahua  mexico),china,2
+hopi (ariz.),san francisco del oro (chihuahua  mexico),3
+china,hopi (ariz.),2
+madrid (spain),rio grande,3
+chihuahua (chihuahua  mexico),rio grande,2
+el pardo (spain),puerto rico,1
+nueva vizcaya (mexico),puerto rico,1
+puerto rico,veracruz (veracruz  mexico),1
+puerto rico,santo domingo (dominican republic),1
+hidalgo del parral (chihuahua  mexico),puerto rico,1
+puebla (mexico),puerto rico,1
+barca (jalisco  mexico),puerto rico,1
+havana (cuba),puerto rico,1
+el pardo (spain),nueva vizcaya (mexico),3
+el pardo (spain),veracruz (veracruz  mexico),1
+el pardo (spain),santo domingo (dominican republic),1
+el pardo (spain),hidalgo del parral (chihuahua  mexico),1
+el pardo (spain),puebla (mexico),1
+barca (jalisco  mexico),el pardo (spain),1
+el pardo (spain),havana (cuba),1
+nueva vizcaya (mexico),santo domingo (dominican republic),1
+barca (jalisco  mexico),nueva vizcaya (mexico),3
+havana (cuba),nueva vizcaya (mexico),4
+santo domingo (dominican republic),veracruz (veracruz  mexico),1
+hidalgo del parral (chihuahua  mexico),veracruz (veracruz  mexico),1
+puebla (mexico),veracruz (veracruz  mexico),1
+barca (jalisco  mexico),veracruz (veracruz  mexico),1
+havana (cuba),veracruz (veracruz  mexico),1
+hidalgo del parral (chihuahua  mexico),santo domingo (dominican republic),1
+puebla (mexico),santo domingo (dominican republic),1
+barca (jalisco  mexico),santo domingo (dominican republic),1
+havana (cuba),santo domingo (dominican republic),1
+barca (jalisco  mexico),hidalgo del parral (chihuahua  mexico),2
+havana (cuba),hidalgo del parral (chihuahua  mexico),1
+barca (jalisco  mexico),puebla (mexico),3
+havana (cuba),puebla (mexico),1
+barca (jalisco  mexico),havana (cuba),1
+catalonia (spain),nueva vizcaya (mexico),2
+buen retiro (madrid  spain),catalonia (spain),2
+durango (durango  mexico),mapimí (durango  mexico),2
+cartagena (colombia),nueva vizcaya (mexico),2
+nueva vizcaya (mexico),seville (spain),8
+cartagena (colombia),seville (spain),1
+cartagena (colombia),havana (cuba),2
+havana (cuba),seville (spain),2
+durango (durango  mexico),seville (spain),4
+durango (durango  mexico),havana (cuba),2
+nueva vizcaya (mexico),pimería alta (mexico and ariz.),3
+madrid (spain),pimería alta (mexico and ariz.),5
+durango (durango  mexico),pimería alta (mexico and ariz.),5
+mapimí (durango  mexico),seville (spain),2
+madrid (spain),seville (spain),1
+chihuahua (chihuahua  mexico),seville (spain),3
+barca (jalisco  mexico),seville (spain),1
+barca (jalisco  mexico),chihuahua (chihuahua  mexico),1
+pimería alta (mexico and ariz.),seville (spain),3
+galicia (spain),san ildefonso (sonora  mexico) ,1
+chihuahua (chihuahua  mexico),san ildefonso (sonora  mexico) ,2
+guadalajara (jalisco  mexico),san lorenzo de el escorial (spain),6
+chihuahua (chihuahua  mexico),san lorenzo de el escorial (spain),3
+coahuila (mexico),sacramento (chihuahua  mexico) ,1
+guainomota (nayarit  mexico) ,sacramento (chihuahua  mexico) ,1
+mapimí (durango  mexico),sacramento (chihuahua  mexico) ,1
+madrid (spain),sacramento (chihuahua  mexico) ,1
+nayarit (mexico),sacramento (chihuahua  mexico) ,1
+coahuila (mexico),guainomota (nayarit  mexico) ,1
+coahuila (mexico),mapimí (durango  mexico),1
+coahuila (mexico),nayarit (mexico),2
+guainomota (nayarit  mexico) ,mapimí (durango  mexico),1
+guainomota (nayarit  mexico) ,madrid (spain),1
+guainomota (nayarit  mexico) ,nayarit (mexico),1
+mapimí (durango  mexico),nayarit (mexico),1
+chihuahua (chihuahua  mexico),presidio del pasaje,3
+presidio del pasaje,santa eulalia (chihuahua  mexico),1
+presidio del pasaje,san lorenzo de el escorial (spain),1
+guadalajara (jalisco  mexico),santa eulalia (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),santa eulalia (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),pasaje (durango  mexico) ,3
+nueva vizcaya (mexico),santa eulalia (chihuahua  mexico),1
+san lorenzo de el escorial (spain),santa eulalia (chihuahua  mexico),1
+pasaje (durango  mexico) ,santa eulalia (chihuahua  mexico),1
+pasaje (durango  mexico) ,san lorenzo de el escorial (spain),1
+aranjuez (spain),nueva vizcaya (mexico),2
+aranjuez (spain),parras de la fuente (coahuila  mexico),1
+durango (durango  mexico),el pardo (spain),2
+el pardo (spain),guadalajara (jalisco  mexico),2
+chihuahua (chihuahua  mexico),el pardo (spain),1
+el pardo (spain),sinaloa (mexico),2
+chihuahua (chihuahua  mexico),sinaloa (mexico),2
+presidio del pasaje,san francisco de conchos (chihuahua  mexico),1
+coahuila (mexico),presidio del pasaje,1
+presidio del pasaje,saltillo (coahuila  mexico),1
+coapas (mexico) ,presidio del pasaje,1
+espíritu santo bay (tex.),presidio del pasaje,1
+parras de la fuente (coahuila  mexico),presidio del pasaje,1
+los adaes (tex.),presidio del pasaje,1
+laguna de san pedro (mexico) ,presidio del pasaje,1
+houston (texas),presidio del pasaje,1
+gila river (n.m. and ariz.),presidio del pasaje,2
+presidio del pasaje,sierra mojada (coahuila  mexico),1
+hidalgo del parral (chihuahua  mexico),presidio del pasaje,1
+presidio del pasaje,san ildefonso (sonora  mexico) ,1
+coahuila (mexico),san francisco de conchos (chihuahua  mexico),2
+saltillo (coahuila  mexico),san francisco de conchos (chihuahua  mexico),2
+coapas (mexico) ,san francisco de conchos (chihuahua  mexico),1
+espíritu santo bay (tex.),san francisco de conchos (chihuahua  mexico),1
+parras de la fuente (coahuila  mexico),san francisco de conchos (chihuahua  mexico),1
+los adaes (tex.),san francisco de conchos (chihuahua  mexico),1
+laguna de san pedro (mexico) ,san francisco de conchos (chihuahua  mexico),1
+houston (texas),san francisco de conchos (chihuahua  mexico),1
+gila river (n.m. and ariz.),san francisco de conchos (chihuahua  mexico),2
+san francisco de conchos (chihuahua  mexico),sierra mojada (coahuila  mexico),1
+san francisco de conchos (chihuahua  mexico),san ildefonso (sonora  mexico) ,1
+pasaje (durango  mexico) ,san francisco de conchos (chihuahua  mexico),2
+coahuila (mexico),saltillo (coahuila  mexico),2
+coahuila (mexico),coapas (mexico) ,1
+coahuila (mexico),espíritu santo bay (tex.),1
+coahuila (mexico),parras de la fuente (coahuila  mexico),1
+coahuila (mexico),los adaes (tex.),1
+coahuila (mexico),laguna de san pedro (mexico) ,1
+coahuila (mexico),houston (texas),1
+coahuila (mexico),sierra mojada (coahuila  mexico),1
+coahuila (mexico),hidalgo del parral (chihuahua  mexico),2
+coahuila (mexico),san ildefonso (sonora  mexico) ,1
+coahuila (mexico),pasaje (durango  mexico) ,2
+coapas (mexico) ,saltillo (coahuila  mexico),1
+espíritu santo bay (tex.),saltillo (coahuila  mexico),1
+los adaes (tex.),saltillo (coahuila  mexico),1
+laguna de san pedro (mexico) ,saltillo (coahuila  mexico),1
+houston (texas),saltillo (coahuila  mexico),1
+gila river (n.m. and ariz.),saltillo (coahuila  mexico),2
+saltillo (coahuila  mexico),sierra mojada (coahuila  mexico),1
+pasaje (durango  mexico) ,saltillo (coahuila  mexico),2
+coapas (mexico) ,espíritu santo bay (tex.),1
+coapas (mexico) ,nueva vizcaya (mexico),1
+coapas (mexico) ,madrid (spain),1
+coapas (mexico) ,parras de la fuente (coahuila  mexico),1
+coapas (mexico) ,los adaes (tex.),1
+coapas (mexico) ,laguna de san pedro (mexico) ,1
+coapas (mexico) ,houston (texas),1
+coapas (mexico) ,gila river (n.m. and ariz.),1
+coapas (mexico) ,sierra mojada (coahuila  mexico),1
+coapas (mexico) ,hidalgo del parral (chihuahua  mexico),1
+coapas (mexico) ,san ildefonso (sonora  mexico) ,1
+coapas (mexico) ,pasaje (durango  mexico) ,1
+espíritu santo bay (tex.),nueva vizcaya (mexico),1
+espíritu santo bay (tex.),madrid (spain),2
+espíritu santo bay (tex.),parras de la fuente (coahuila  mexico),1
+espíritu santo bay (tex.),los adaes (tex.),1
+espíritu santo bay (tex.),laguna de san pedro (mexico) ,1
+espíritu santo bay (tex.),houston (texas),1
+espíritu santo bay (tex.),gila river (n.m. and ariz.),2
+espíritu santo bay (tex.),sierra mojada (coahuila  mexico),1
+espíritu santo bay (tex.),hidalgo del parral (chihuahua  mexico),1
+espíritu santo bay (tex.),san ildefonso (sonora  mexico) ,1
+espíritu santo bay (tex.),pasaje (durango  mexico) ,1
+los adaes (tex.),nueva vizcaya (mexico),1
+laguna de san pedro (mexico) ,nueva vizcaya (mexico),1
+houston (texas),nueva vizcaya (mexico),1
+nueva vizcaya (mexico),sierra mojada (coahuila  mexico),1
+los adaes (tex.),madrid (spain),1
+laguna de san pedro (mexico) ,madrid (spain),1
+houston (texas),madrid (spain),2
+madrid (spain),sierra mojada (coahuila  mexico),1
+los adaes (tex.),parras de la fuente (coahuila  mexico),1
+laguna de san pedro (mexico) ,parras de la fuente (coahuila  mexico),1
+houston (texas),parras de la fuente (coahuila  mexico),1
+gila river (n.m. and ariz.),parras de la fuente (coahuila  mexico),1
+parras de la fuente (coahuila  mexico),sierra mojada (coahuila  mexico),1
+parras de la fuente (coahuila  mexico),pasaje (durango  mexico) ,1
+laguna de san pedro (mexico) ,los adaes (tex.),1
+houston (texas),los adaes (tex.),1
+gila river (n.m. and ariz.),los adaes (tex.),1
+los adaes (tex.),sierra mojada (coahuila  mexico),1
+hidalgo del parral (chihuahua  mexico),los adaes (tex.),1
+los adaes (tex.),san ildefonso (sonora  mexico) ,1
+los adaes (tex.),pasaje (durango  mexico) ,1
+houston (texas),laguna de san pedro (mexico) ,1
+gila river (n.m. and ariz.),laguna de san pedro (mexico) ,1
+laguna de san pedro (mexico) ,sierra mojada (coahuila  mexico),1
+hidalgo del parral (chihuahua  mexico),laguna de san pedro (mexico) ,1
+laguna de san pedro (mexico) ,san ildefonso (sonora  mexico) ,1
+laguna de san pedro (mexico) ,pasaje (durango  mexico) ,1
+gila river (n.m. and ariz.),houston (texas),1
+houston (texas),sierra mojada (coahuila  mexico),1
+hidalgo del parral (chihuahua  mexico),houston (texas),1
+houston (texas),san ildefonso (sonora  mexico) ,1
+houston (texas),pasaje (durango  mexico) ,1
+gila river (n.m. and ariz.),sierra mojada (coahuila  mexico),1
+gila river (n.m. and ariz.),san ildefonso (sonora  mexico) ,1
+gila river (n.m. and ariz.),pasaje (durango  mexico) ,3
+hidalgo del parral (chihuahua  mexico),sierra mojada (coahuila  mexico),1
+san ildefonso (sonora  mexico) ,sierra mojada (coahuila  mexico),1
+pasaje (durango  mexico) ,sierra mojada (coahuila  mexico),1
+hidalgo del parral (chihuahua  mexico),pasaje (durango  mexico) ,2
+pasaje (durango  mexico) ,san ildefonso (sonora  mexico) ,1
+madrid (spain),san felipe de jesús de quevabi (sonora  mexico) ,1
+chihuahua (chihuahua  mexico),san felipe de jesús de quevabi (sonora  mexico) ,1
+guadalajara (jalisco  mexico),seville (spain),2
+seville (spain),veracruz (veracruz  mexico),1
+buen retiro (madrid  spain),seville (spain),1
+seville (spain),yucatan (mexico),1
+guadalajara (jalisco  mexico),veracruz (veracruz  mexico),1
+buen retiro (madrid  spain),guadalajara (jalisco  mexico),3
+guadalajara (jalisco  mexico),yucatan (mexico),1
+chihuahua (chihuahua  mexico),yucatan (mexico),1
+nueva vizcaya (mexico),yucatan (mexico),1
+veracruz (veracruz  mexico),yucatan (mexico),1
+buen retiro (madrid  spain),yucatan (mexico),1
+madrid (spain),presidio de san miguel (mexico) ,2
+buen retiro (madrid  spain),presidio de san miguel (mexico) ,1
+presidio de san miguel (mexico) ,san miguel de cerro gordo (durango  mexico) ,1
+cerro gordo (durango  mexico) ,presidio de san miguel (mexico) ,1
+madrid (spain),san miguel de cerro gordo (durango  mexico) ,1
+buen retiro (madrid  spain),san miguel de cerro gordo (durango  mexico) ,1
+cerro gordo (durango  mexico) ,san miguel de cerro gordo (durango  mexico) ,1
+pilares (sonora  mexico) ,presidio del pasaje,1
+presidio del pasaje,san elizario (tex.),1
+cajón (mexico) ,presidio del pasaje,1
+mapimí (durango  mexico),presidio del pasaje,2
+presidio del pasaje,rio grande,1
+presidio del pasaje,valle de allende (chihuahua  mexico),2
+el gallo (durango  mexico) ,presidio del pasaje,2
+cerro gordo (durango  mexico) ,presidio del pasaje,2
+chihuahua (chihuahua  mexico),pilares (sonora  mexico) ,1
+chihuahua (chihuahua  mexico),san elizario (tex.),1
+casas grandes (chihuahua  mexico),chihuahua (chihuahua  mexico),1
+cajón (mexico) ,chihuahua (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),mapimí (durango  mexico),2
+chihuahua (chihuahua  mexico),valle de allende (chihuahua  mexico),2
+chihuahua (chihuahua  mexico),el gallo (durango  mexico) ,2
+cerro gordo (durango  mexico) ,chihuahua (chihuahua  mexico),2
+pilares (sonora  mexico) ,san elizario (tex.),1
+nueva vizcaya (mexico),pilares (sonora  mexico) ,3
+casas grandes (chihuahua  mexico),pilares (sonora  mexico) ,1
+cajón (mexico) ,pilares (sonora  mexico) ,1
+madrid (spain),pilares (sonora  mexico) ,2
+mapimí (durango  mexico),pilares (sonora  mexico) ,1
+pilares (sonora  mexico) ,rio grande,2
+pilares (sonora  mexico) ,valle de allende (chihuahua  mexico),1
+el gallo (durango  mexico) ,pilares (sonora  mexico) ,1
+pasaje (durango  mexico) ,pilares (sonora  mexico) ,1
+cerro gordo (durango  mexico) ,pilares (sonora  mexico) ,1
+nueva vizcaya (mexico),san elizario (tex.),1
+casas grandes (chihuahua  mexico),san elizario (tex.),1
+cajón (mexico) ,san elizario (tex.),1
+madrid (spain),san elizario (tex.),1
+mapimí (durango  mexico),san elizario (tex.),1
+rio grande,san elizario (tex.),1
+san elizario (tex.),valle de allende (chihuahua  mexico),1
+el gallo (durango  mexico) ,san elizario (tex.),1
+pasaje (durango  mexico) ,san elizario (tex.),1
+cerro gordo (durango  mexico) ,san elizario (tex.),1
+cajón (mexico) ,nueva vizcaya (mexico),1
+cajón (mexico) ,casas grandes (chihuahua  mexico),1
+casas grandes (chihuahua  mexico),mapimí (durango  mexico),1
+casas grandes (chihuahua  mexico),rio grande,1
+casas grandes (chihuahua  mexico),valle de allende (chihuahua  mexico),1
+cajón (mexico) ,madrid (spain),1
+cajón (mexico) ,mapimí (durango  mexico),1
+cajón (mexico) ,rio grande,1
+cajón (mexico) ,valle de allende (chihuahua  mexico),1
+cajón (mexico) ,el gallo (durango  mexico) ,1
+cajón (mexico) ,pasaje (durango  mexico) ,1
+cajón (mexico) ,cerro gordo (durango  mexico) ,1
+mapimí (durango  mexico),rio grande,1
+mapimí (durango  mexico),valle de allende (chihuahua  mexico),2
+mapimí (durango  mexico),pasaje (durango  mexico) ,2
+cerro gordo (durango  mexico) ,mapimí (durango  mexico),2
+rio grande,valle de allende (chihuahua  mexico),1
+el gallo (durango  mexico) ,rio grande,1
+pasaje (durango  mexico) ,rio grande,1
+cerro gordo (durango  mexico) ,rio grande,1
+el gallo (durango  mexico) ,valle de allende (chihuahua  mexico),2
+pasaje (durango  mexico) ,valle de allende (chihuahua  mexico),2
+el gallo (durango  mexico) ,pasaje (durango  mexico) ,3
+cerro gordo (durango  mexico) ,pasaje (durango  mexico) ,3
+carrizal (chihuahua  mexico) ,sonora (mexico),2
+cuba,sonora (mexico),1
+labrador (n.l.),sonora (mexico),2
+rio grande,sonora (mexico),2
+cartagena (colombia),sonora (mexico),1
+havana (cuba),sonora (mexico),1
+carrizal (chihuahua  mexico) ,durango (durango  mexico),1
+cuba,durango (durango  mexico),1
+durango (durango  mexico),rio grande,2
+cartagena (colombia),durango (durango  mexico),1
+carrizal (chihuahua  mexico) ,sinaloa (mexico),2
+cuba,sinaloa (mexico),1
+labrador (n.l.),sinaloa (mexico),2
+rio grande,sinaloa (mexico),2
+cartagena (colombia),sinaloa (mexico),1
+havana (cuba),sinaloa (mexico),1
+carrizal (chihuahua  mexico) ,cuba,1
+carrizal (chihuahua  mexico) ,nueva vizcaya (mexico),2
+carrizal (chihuahua  mexico) ,madrid (spain),1
+carrizal (chihuahua  mexico) ,labrador (n.l.),1
+carrizal (chihuahua  mexico) ,rio grande,2
+carrizal (chihuahua  mexico) ,cartagena (colombia),1
+carrizal (chihuahua  mexico) ,havana (cuba),1
+cuba,nueva vizcaya (mexico),1
+cuba,madrid (spain),2
+cuba,labrador (n.l.),1
+cuba,rio grande,1
+cartagena (colombia),cuba,1
+cuba,havana (cuba),2
+cartagena (colombia),madrid (spain),1
+havana (cuba),madrid (spain),2
+labrador (n.l.),rio grande,1
+cartagena (colombia),labrador (n.l.),1
+havana (cuba),labrador (n.l.),1
+cartagena (colombia),rio grande,1
+havana (cuba),rio grande,1
+el paso del norte (mexico),pitic (sonora  mexico) ,1
+pitic (sonora  mexico) ,presidio de san miguel (mexico) ,1
+pilares (sonora  mexico) ,pitic (sonora  mexico) ,1
+pitic (sonora  mexico) ,san xavier (ariz.) ,1
+pitic (sonora  mexico) ,sinaloa (mexico),1
+pitic (sonora  mexico) ,sonora (mexico),1
+carrizal (chihuahua  mexico) ,pitic (sonora  mexico) ,1
+pimería alta (mexico and ariz.),pitic (sonora  mexico) ,1
+pitic (sonora  mexico) ,tucson (ariz.),1
+nueva vizcaya (mexico),pitic (sonora  mexico) ,1
+pitic (sonora  mexico) ,san miguel de horcasitas (sonora  mexico),1
+pitic (sonora  mexico) ,san juan bautista (coahuila  mexico) ,1
+pitic (sonora  mexico) ,rio grande,1
+colorado river,pitic (sonora  mexico) ,1
+pitic (sonora  mexico) ,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),pitic (sonora  mexico) ,1
+el paso del norte (mexico),presidio de san miguel (mexico) ,1
+el paso del norte (mexico),pilares (sonora  mexico) ,1
+el paso del norte (mexico),san xavier (ariz.) ,1
+el paso del norte (mexico),sinaloa (mexico),1
+el paso del norte (mexico),sonora (mexico),1
+carrizal (chihuahua  mexico) ,el paso del norte (mexico),1
+el paso del norte (mexico),pimería alta (mexico and ariz.),1
+el paso del norte (mexico),tucson (ariz.),1
+el paso del norte (mexico),nueva vizcaya (mexico),1
+el paso del norte (mexico),san miguel de horcasitas (sonora  mexico),1
+el paso del norte (mexico),san juan bautista (coahuila  mexico) ,1
+el paso del norte (mexico),rio grande,1
+colorado river,el paso del norte (mexico),1
+el paso del norte (mexico),tiburón island (sonora  mexico),1
+el paso del norte (mexico),gila river (n.m. and ariz.),1
+pilares (sonora  mexico) ,presidio de san miguel (mexico) ,1
+presidio de san miguel (mexico) ,san xavier (ariz.) ,1
+presidio de san miguel (mexico) ,sinaloa (mexico),1
+presidio de san miguel (mexico) ,sonora (mexico),2
+carrizal (chihuahua  mexico) ,presidio de san miguel (mexico) ,1
+pimería alta (mexico and ariz.),presidio de san miguel (mexico) ,1
+presidio de san miguel (mexico) ,tucson (ariz.),1
+nueva vizcaya (mexico),presidio de san miguel (mexico) ,1
+presidio de san miguel (mexico) ,san miguel de horcasitas (sonora  mexico),2
+presidio de san miguel (mexico) ,san juan bautista (coahuila  mexico) ,1
+presidio de san miguel (mexico) ,rio grande,1
+colorado river,presidio de san miguel (mexico) ,1
+presidio de san miguel (mexico) ,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),presidio de san miguel (mexico) ,1
+pilares (sonora  mexico) ,san xavier (ariz.) ,1
+pilares (sonora  mexico) ,sinaloa (mexico),2
+pilares (sonora  mexico) ,sonora (mexico),1
+carrizal (chihuahua  mexico) ,pilares (sonora  mexico) ,1
+pilares (sonora  mexico) ,pimería alta (mexico and ariz.),1
+pilares (sonora  mexico) ,tucson (ariz.),1
+pilares (sonora  mexico) ,san miguel de horcasitas (sonora  mexico),1
+pilares (sonora  mexico) ,san juan bautista (coahuila  mexico) ,1
+colorado river,pilares (sonora  mexico) ,1
+pilares (sonora  mexico) ,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),pilares (sonora  mexico) ,1
+san xavier (ariz.) ,sinaloa (mexico),1
+san xavier (ariz.) ,sonora (mexico),1
+carrizal (chihuahua  mexico) ,san xavier (ariz.) ,1
+pimería alta (mexico and ariz.),san xavier (ariz.) ,1
+san xavier (ariz.) ,tucson (ariz.),1
+nueva vizcaya (mexico),san xavier (ariz.) ,1
+san miguel de horcasitas (sonora  mexico),san xavier (ariz.) ,1
+san juan bautista (coahuila  mexico) ,san xavier (ariz.) ,1
+rio grande,san xavier (ariz.) ,1
+colorado river,san xavier (ariz.) ,1
+san xavier (ariz.) ,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),san xavier (ariz.) ,1
+pimería alta (mexico and ariz.),sinaloa (mexico),7
+sinaloa (mexico),tucson (ariz.),1
+san miguel de horcasitas (sonora  mexico),sinaloa (mexico),1
+san juan bautista (coahuila  mexico) ,sinaloa (mexico),1
+sinaloa (mexico),tiburón island (sonora  mexico),5
+pimería alta (mexico and ariz.),sonora (mexico),7
+sonora (mexico),tucson (ariz.),1
+san miguel de horcasitas (sonora  mexico),sonora (mexico),2
+san juan bautista (coahuila  mexico) ,sonora (mexico),1
+sonora (mexico),tiburón island (sonora  mexico),2
+carrizal (chihuahua  mexico) ,pimería alta (mexico and ariz.),1
+carrizal (chihuahua  mexico) ,tucson (ariz.),1
+carrizal (chihuahua  mexico) ,san miguel de horcasitas (sonora  mexico),1
+carrizal (chihuahua  mexico) ,san juan bautista (coahuila  mexico) ,1
+carrizal (chihuahua  mexico) ,colorado river,1
+carrizal (chihuahua  mexico) ,tiburón island (sonora  mexico),1
+carrizal (chihuahua  mexico) ,gila river (n.m. and ariz.),1
+pimería alta (mexico and ariz.),tucson (ariz.),1
+pimería alta (mexico and ariz.),san miguel de horcasitas (sonora  mexico),1
+pimería alta (mexico and ariz.),san juan bautista (coahuila  mexico) ,1
+pimería alta (mexico and ariz.),rio grande,2
+colorado river,pimería alta (mexico and ariz.),4
+pimería alta (mexico and ariz.),tiburón island (sonora  mexico),3
+gila river (n.m. and ariz.),pimería alta (mexico and ariz.),3
+nueva vizcaya (mexico),tucson (ariz.),1
+san miguel de horcasitas (sonora  mexico),tucson (ariz.),1
+san juan bautista (coahuila  mexico) ,tucson (ariz.),1
+rio grande,tucson (ariz.),1
+colorado river,tucson (ariz.),1
+tiburón island (sonora  mexico),tucson (ariz.),1
+gila river (n.m. and ariz.),tucson (ariz.),1
+nueva vizcaya (mexico),san miguel de horcasitas (sonora  mexico),1
+nueva vizcaya (mexico),san juan bautista (coahuila  mexico) ,1
+nueva vizcaya (mexico),tiburón island (sonora  mexico),2
+san juan bautista (coahuila  mexico) ,san miguel de horcasitas (sonora  mexico),1
+rio grande,san miguel de horcasitas (sonora  mexico),1
+colorado river,san miguel de horcasitas (sonora  mexico),1
+san miguel de horcasitas (sonora  mexico),tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),san miguel de horcasitas (sonora  mexico),1
+rio grande,san juan bautista (coahuila  mexico) ,1
+colorado river,san juan bautista (coahuila  mexico) ,1
+san juan bautista (coahuila  mexico) ,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),san juan bautista (coahuila  mexico) ,1
+colorado river,rio grande,2
+rio grande,tiburón island (sonora  mexico),1
+gila river (n.m. and ariz.),rio grande,2
+colorado river,tiburón island (sonora  mexico),2
+colorado river,gila river (n.m. and ariz.),3
+gila river (n.m. and ariz.),tiburón island (sonora  mexico),2
+nazas river (mexico),presidio del pasaje,1
+mexico city (mexico),presidio del pasaje,1
+nazas river (mexico),nueva vizcaya (mexico),1
+madrid (spain),nazas river (mexico),1
+mexico city (mexico),nazas river (mexico),1
+nazas river (mexico),pasaje (durango  mexico) ,1
+mexico city (mexico),pasaje (durango  mexico) ,1
+el paso del norte (mexico),madrid (spain),1
+el paso del norte (mexico),new mexico,1
+chihuahua (chihuahua  mexico),el paso del norte (mexico),1
+espíritu santo bay (tex.),tampico (tamaulipas  mexico),1
+barca (jalisco  mexico),espíritu santo bay (tex.),1
+madrid (spain),tampico (tamaulipas  mexico),1
+barca (jalisco  mexico),madrid (spain),3
+gila river (n.m. and ariz.),tampico (tamaulipas  mexico),1
+barca (jalisco  mexico),tampico (tamaulipas  mexico),1
+barca (jalisco  mexico),gila river (n.m. and ariz.),2
+mexico city (mexico),sonora (mexico),1
+coahuila (mexico),durango (durango  mexico),2
+canada  new (n.s.) ,durango (durango  mexico),1
+durango (durango  mexico),valparaíso (zacatecas  mexico),1
+durango (durango  mexico),tepehuanes (durango  mexico),1
+durango (durango  mexico),new france (durango  mexico),1
+barca (jalisco  mexico),durango (durango  mexico),1
+durango (durango  mexico),gran quivira (n.m.),1
+durango (durango  mexico),fresnillo (zacatecas  mexico),1
+culiacán (sinaloa  mexico),durango (durango  mexico),2
+durango (durango  mexico),san francisco de conchos (chihuahua  mexico),1
+durango (durango  mexico),michoacán (mexico),1
+durango (durango  mexico),mazapil (zacatecas  mexico),1
+durango (durango  mexico),nayarit (mexico),1
+cuitzeo (mexico),durango (durango  mexico),1
+durango (durango  mexico),jalapa (veracruz  mexico),1
+colima (mexico),durango (durango  mexico),1
+durango (durango  mexico),monterrey (nuevo león  mexico),1
+durango (durango  mexico),valladolid (spain),1
+castile (spain),durango (durango  mexico),1
+aranjuez (spain),durango (durango  mexico),2
+canada  new (n.s.) ,coahuila (mexico),1
+coahuila (mexico),labrador (n.l.),1
+coahuila (mexico),valparaíso (zacatecas  mexico),1
+coahuila (mexico),el gallo (durango  mexico) ,1
+coahuila (mexico),janos (chihuahua  mexico),1
+coahuila (mexico),tepehuanes (durango  mexico),1
+coahuila (mexico),new france (durango  mexico),1
+barca (jalisco  mexico),coahuila (mexico),1
+coahuila (mexico),puebla (mexico),1
+coahuila (mexico),gran quivira (n.m.),1
+coahuila (mexico),hopi (ariz.),1
+coahuila (mexico),fresnillo (zacatecas  mexico),1
+california (new spain),coahuila (mexico),1
+coahuila (mexico),culiacán (sinaloa  mexico),2
+coahuila (mexico),michoacán (mexico),1
+coahuila (mexico),mazapil (zacatecas  mexico),1
+coahuila (mexico),cuitzeo (mexico),1
+coahuila (mexico),jalapa (veracruz  mexico),1
+coahuila (mexico),colima (mexico),1
+coahuila (mexico),galicia (spain),2
+coahuila (mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),coahuila (mexico),1
+coahuila (mexico),valladolid (spain),1
+coahuila (mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),coahuila (mexico),1
+aranjuez (spain),coahuila (mexico),1
+cerro gordo (durango  mexico) ,coahuila (mexico),1
+canada  new (n.s.) ,saltillo (coahuila  mexico),1
+labrador (n.l.),saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),valparaíso (zacatecas  mexico),1
+el gallo (durango  mexico) ,saltillo (coahuila  mexico),1
+janos (chihuahua  mexico),saltillo (coahuila  mexico),1
+new france (durango  mexico),saltillo (coahuila  mexico),1
+barca (jalisco  mexico),saltillo (coahuila  mexico),1
+gran quivira (n.m.),saltillo (coahuila  mexico),1
+hopi (ariz.),saltillo (coahuila  mexico),1
+fresnillo (zacatecas  mexico),saltillo (coahuila  mexico),1
+culiacán (sinaloa  mexico),saltillo (coahuila  mexico),1
+michoacán (mexico),saltillo (coahuila  mexico),1
+nuevo león (mexico),saltillo (coahuila  mexico),1
+nayarit (mexico),saltillo (coahuila  mexico),1
+cuitzeo (mexico),saltillo (coahuila  mexico),1
+jalapa (veracruz  mexico),saltillo (coahuila  mexico),1
+colima (mexico),saltillo (coahuila  mexico),1
+galicia (spain),saltillo (coahuila  mexico),1
+monterrey (nuevo león  mexico),saltillo (coahuila  mexico),1
+casas grandes (chihuahua  mexico),saltillo (coahuila  mexico),1
+new mexico,saltillo (coahuila  mexico),1
+saltillo (coahuila  mexico),valladolid (spain),1
+castile (spain),saltillo (coahuila  mexico),1
+aranjuez (spain),saltillo (coahuila  mexico),1
+canada  new (n.s.) ,madrid (spain),1
+madrid (spain),valparaíso (zacatecas  mexico),1
+madrid (spain),new france (durango  mexico),1
+gran quivira (n.m.),madrid (spain),1
+fresnillo (zacatecas  mexico),madrid (spain),1
+culiacán (sinaloa  mexico),madrid (spain),2
+madrid (spain),michoacán (mexico),1
+cuitzeo (mexico),madrid (spain),1
+jalapa (veracruz  mexico),madrid (spain),1
+colima (mexico),madrid (spain),1
+madrid (spain),monterrey (nuevo león  mexico),1
+madrid (spain),valladolid (spain),1
+aranjuez (spain),madrid (spain),1
+canada  new (n.s.) ,labrador (n.l.),1
+canada  new (n.s.) ,valparaíso (zacatecas  mexico),1
+canada  new (n.s.) ,gila river (n.m. and ariz.),1
+canada  new (n.s.) ,el gallo (durango  mexico) ,1
+canada  new (n.s.) ,janos (chihuahua  mexico),1
+canada  new (n.s.) ,tepehuanes (durango  mexico),1
+canada  new (n.s.) ,new france (durango  mexico),1
+barca (jalisco  mexico),canada  new (n.s.) ,1
+canada  new (n.s.) ,puebla (mexico),1
+canada  new (n.s.) ,gran quivira (n.m.),1
+canada  new (n.s.) ,hopi (ariz.),1
+canada  new (n.s.) ,fresnillo (zacatecas  mexico),1
+canada  new (n.s.) ,nueva vizcaya (mexico),1
+california (new spain),canada  new (n.s.) ,1
+canada  new (n.s.) ,culiacán (sinaloa  mexico),1
+canada  new (n.s.) ,pasaje (durango  mexico) ,1
+canada  new (n.s.) ,san francisco de conchos (chihuahua  mexico),1
+canada  new (n.s.) ,sonora (mexico),1
+canada  new (n.s.) ,guadalajara (jalisco  mexico),1
+canada  new (n.s.) ,michoacán (mexico),1
+canada  new (n.s.) ,nuevo león (mexico),1
+canada  new (n.s.) ,mazapil (zacatecas  mexico),1
+canada  new (n.s.) ,nayarit (mexico),1
+canada  new (n.s.) ,cuitzeo (mexico),1
+canada  new (n.s.) ,hidalgo del parral (chihuahua  mexico),1
+canada  new (n.s.) ,jalapa (veracruz  mexico),1
+canada  new (n.s.) ,colima (mexico),1
+canada  new (n.s.) ,galicia (spain),1
+canada  new (n.s.) ,sinaloa (mexico),1
+canada  new (n.s.) ,monterrey (nuevo león  mexico),1
+canada  new (n.s.) ,casas grandes (chihuahua  mexico),1
+canada  new (n.s.) ,new mexico,1
+canada  new (n.s.) ,valladolid (spain),1
+canada  new (n.s.) ,san francisco del oro (chihuahua  mexico),1
+canada  new (n.s.) ,castile (spain),1
+aranjuez (spain),canada  new (n.s.) ,1
+canada  new (n.s.) ,cerro gordo (durango  mexico) ,1
+labrador (n.l.),valparaíso (zacatecas  mexico),1
+gila river (n.m. and ariz.),labrador (n.l.),1
+el gallo (durango  mexico) ,labrador (n.l.),1
+janos (chihuahua  mexico),labrador (n.l.),1
+labrador (n.l.),tepehuanes (durango  mexico),1
+labrador (n.l.),new france (durango  mexico),1
+barca (jalisco  mexico),labrador (n.l.),1
+labrador (n.l.),puebla (mexico),1
+gran quivira (n.m.),labrador (n.l.),1
+hopi (ariz.),labrador (n.l.),1
+fresnillo (zacatecas  mexico),labrador (n.l.),1
+california (new spain),labrador (n.l.),1
+culiacán (sinaloa  mexico),labrador (n.l.),1
+labrador (n.l.),pasaje (durango  mexico) ,1
+labrador (n.l.),san francisco de conchos (chihuahua  mexico),1
+labrador (n.l.),michoacán (mexico),1
+labrador (n.l.),nuevo león (mexico),1
+labrador (n.l.),mazapil (zacatecas  mexico),1
+labrador (n.l.),nayarit (mexico),1
+cuitzeo (mexico),labrador (n.l.),1
+jalapa (veracruz  mexico),labrador (n.l.),1
+colima (mexico),labrador (n.l.),1
+galicia (spain),labrador (n.l.),1
+labrador (n.l.),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),labrador (n.l.),1
+labrador (n.l.),new mexico,1
+labrador (n.l.),valladolid (spain),1
+castile (spain),labrador (n.l.),1
+aranjuez (spain),labrador (n.l.),1
+cerro gordo (durango  mexico) ,labrador (n.l.),1
+gila river (n.m. and ariz.),valparaíso (zacatecas  mexico),1
+el gallo (durango  mexico) ,valparaíso (zacatecas  mexico),1
+janos (chihuahua  mexico),valparaíso (zacatecas  mexico),1
+tepehuanes (durango  mexico),valparaíso (zacatecas  mexico),1
+new france (durango  mexico),valparaíso (zacatecas  mexico),1
+barca (jalisco  mexico),valparaíso (zacatecas  mexico),1
+puebla (mexico),valparaíso (zacatecas  mexico),1
+gran quivira (n.m.),valparaíso (zacatecas  mexico),1
+hopi (ariz.),valparaíso (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),valparaíso (zacatecas  mexico),1
+nueva vizcaya (mexico),valparaíso (zacatecas  mexico),1
+california (new spain),valparaíso (zacatecas  mexico),1
+culiacán (sinaloa  mexico),valparaíso (zacatecas  mexico),1
+pasaje (durango  mexico) ,valparaíso (zacatecas  mexico),1
+san francisco de conchos (chihuahua  mexico),valparaíso (zacatecas  mexico),1
+sonora (mexico),valparaíso (zacatecas  mexico),1
+guadalajara (jalisco  mexico),valparaíso (zacatecas  mexico),1
+michoacán (mexico),valparaíso (zacatecas  mexico),1
+nuevo león (mexico),valparaíso (zacatecas  mexico),1
+mazapil (zacatecas  mexico),valparaíso (zacatecas  mexico),1
+nayarit (mexico),valparaíso (zacatecas  mexico),1
+cuitzeo (mexico),valparaíso (zacatecas  mexico),1
+hidalgo del parral (chihuahua  mexico),valparaíso (zacatecas  mexico),1
+jalapa (veracruz  mexico),valparaíso (zacatecas  mexico),1
+colima (mexico),valparaíso (zacatecas  mexico),1
+galicia (spain),valparaíso (zacatecas  mexico),1
+sinaloa (mexico),valparaíso (zacatecas  mexico),1
+monterrey (nuevo león  mexico),valparaíso (zacatecas  mexico),1
+casas grandes (chihuahua  mexico),valparaíso (zacatecas  mexico),1
+new mexico,valparaíso (zacatecas  mexico),1
+valladolid (spain),valparaíso (zacatecas  mexico),1
+san francisco del oro (chihuahua  mexico),valparaíso (zacatecas  mexico),1
+castile (spain),valparaíso (zacatecas  mexico),1
+aranjuez (spain),valparaíso (zacatecas  mexico),1
+cerro gordo (durango  mexico) ,valparaíso (zacatecas  mexico),1
+gila river (n.m. and ariz.),janos (chihuahua  mexico),2
+gila river (n.m. and ariz.),tepehuanes (durango  mexico),1
+gila river (n.m. and ariz.),new france (durango  mexico),1
+gila river (n.m. and ariz.),puebla (mexico),2
+gila river (n.m. and ariz.),gran quivira (n.m.),1
+gila river (n.m. and ariz.),hopi (ariz.),2
+fresnillo (zacatecas  mexico),gila river (n.m. and ariz.),1
+california (new spain),gila river (n.m. and ariz.),2
+culiacán (sinaloa  mexico),gila river (n.m. and ariz.),2
+gila river (n.m. and ariz.),michoacán (mexico),1
+gila river (n.m. and ariz.),mazapil (zacatecas  mexico),1
+gila river (n.m. and ariz.),nayarit (mexico),1
+cuitzeo (mexico),gila river (n.m. and ariz.),1
+gila river (n.m. and ariz.),jalapa (veracruz  mexico),1
+colima (mexico),gila river (n.m. and ariz.),1
+galicia (spain),gila river (n.m. and ariz.),1
+gila river (n.m. and ariz.),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),gila river (n.m. and ariz.),1
+gila river (n.m. and ariz.),valladolid (spain),1
+castile (spain),gila river (n.m. and ariz.),1
+aranjuez (spain),gila river (n.m. and ariz.),2
+el gallo (durango  mexico) ,janos (chihuahua  mexico),1
+el gallo (durango  mexico) ,tepehuanes (durango  mexico),1
+el gallo (durango  mexico) ,new france (durango  mexico),1
+barca (jalisco  mexico),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,puebla (mexico),1
+el gallo (durango  mexico) ,gran quivira (n.m.),1
+el gallo (durango  mexico) ,hopi (ariz.),1
+el gallo (durango  mexico) ,fresnillo (zacatecas  mexico),1
+culiacán (sinaloa  mexico),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,michoacán (mexico),1
+el gallo (durango  mexico) ,mazapil (zacatecas  mexico),1
+el gallo (durango  mexico) ,nayarit (mexico),1
+cuitzeo (mexico),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,jalapa (veracruz  mexico),1
+colima (mexico),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,monterrey (nuevo león  mexico),1
+el gallo (durango  mexico) ,valladolid (spain),1
+castile (spain),el gallo (durango  mexico) ,1
+aranjuez (spain),el gallo (durango  mexico) ,1
+janos (chihuahua  mexico),tepehuanes (durango  mexico),1
+janos (chihuahua  mexico),new france (durango  mexico),1
+barca (jalisco  mexico),janos (chihuahua  mexico),1
+janos (chihuahua  mexico),puebla (mexico),2
+gran quivira (n.m.),janos (chihuahua  mexico),1
+hopi (ariz.),janos (chihuahua  mexico),2
+fresnillo (zacatecas  mexico),janos (chihuahua  mexico),1
+california (new spain),janos (chihuahua  mexico),1
+culiacán (sinaloa  mexico),janos (chihuahua  mexico),1
+janos (chihuahua  mexico),san francisco de conchos (chihuahua  mexico),1
+janos (chihuahua  mexico),michoacán (mexico),1
+janos (chihuahua  mexico),nuevo león (mexico),1
+janos (chihuahua  mexico),mazapil (zacatecas  mexico),1
+janos (chihuahua  mexico),nayarit (mexico),1
+cuitzeo (mexico),janos (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),janos (chihuahua  mexico),1
+jalapa (veracruz  mexico),janos (chihuahua  mexico),1
+colima (mexico),janos (chihuahua  mexico),1
+galicia (spain),janos (chihuahua  mexico),1
+janos (chihuahua  mexico),monterrey (nuevo león  mexico),1
+janos (chihuahua  mexico),new mexico,2
+janos (chihuahua  mexico),valladolid (spain),1
+janos (chihuahua  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),janos (chihuahua  mexico),1
+aranjuez (spain),janos (chihuahua  mexico),2
+cerro gordo (durango  mexico) ,janos (chihuahua  mexico),1
+new france (durango  mexico),tepehuanes (durango  mexico),1
+barca (jalisco  mexico),tepehuanes (durango  mexico),1
+puebla (mexico),tepehuanes (durango  mexico),1
+gran quivira (n.m.),tepehuanes (durango  mexico),1
+hopi (ariz.),tepehuanes (durango  mexico),1
+fresnillo (zacatecas  mexico),tepehuanes (durango  mexico),1
+california (new spain),tepehuanes (durango  mexico),1
+culiacán (sinaloa  mexico),tepehuanes (durango  mexico),1
+pasaje (durango  mexico) ,tepehuanes (durango  mexico),1
+san francisco de conchos (chihuahua  mexico),tepehuanes (durango  mexico),1
+sonora (mexico),tepehuanes (durango  mexico),1
+guadalajara (jalisco  mexico),tepehuanes (durango  mexico),1
+michoacán (mexico),tepehuanes (durango  mexico),1
+nuevo león (mexico),tepehuanes (durango  mexico),1
+nayarit (mexico),tepehuanes (durango  mexico),1
+cuitzeo (mexico),tepehuanes (durango  mexico),1
+jalapa (veracruz  mexico),tepehuanes (durango  mexico),1
+colima (mexico),tepehuanes (durango  mexico),1
+galicia (spain),tepehuanes (durango  mexico),1
+monterrey (nuevo león  mexico),tepehuanes (durango  mexico),1
+casas grandes (chihuahua  mexico),tepehuanes (durango  mexico),1
+new mexico,tepehuanes (durango  mexico),1
+tepehuanes (durango  mexico),valladolid (spain),1
+san francisco del oro (chihuahua  mexico),tepehuanes (durango  mexico),1
+castile (spain),tepehuanes (durango  mexico),1
+aranjuez (spain),tepehuanes (durango  mexico),1
+cerro gordo (durango  mexico) ,tepehuanes (durango  mexico),1
+barca (jalisco  mexico),new france (durango  mexico),1
+new france (durango  mexico),puebla (mexico),1
+gran quivira (n.m.),new france (durango  mexico),1
+hopi (ariz.),new france (durango  mexico),1
+fresnillo (zacatecas  mexico),new france (durango  mexico),1
+new france (durango  mexico),nueva vizcaya (mexico),1
+california (new spain),new france (durango  mexico),1
+culiacán (sinaloa  mexico),new france (durango  mexico),1
+new france (durango  mexico),pasaje (durango  mexico) ,1
+new france (durango  mexico),san francisco de conchos (chihuahua  mexico),1
+new france (durango  mexico),sonora (mexico),1
+guadalajara (jalisco  mexico),new france (durango  mexico),1
+michoacán (mexico),new france (durango  mexico),1
+new france (durango  mexico),nuevo león (mexico),1
+mazapil (zacatecas  mexico),new france (durango  mexico),1
+nayarit (mexico),new france (durango  mexico),1
+cuitzeo (mexico),new france (durango  mexico),1
+hidalgo del parral (chihuahua  mexico),new france (durango  mexico),1
+jalapa (veracruz  mexico),new france (durango  mexico),1
+colima (mexico),new france (durango  mexico),1
+galicia (spain),new france (durango  mexico),1
+new france (durango  mexico),sinaloa (mexico),1
+monterrey (nuevo león  mexico),new france (durango  mexico),1
+casas grandes (chihuahua  mexico),new france (durango  mexico),1
+new france (durango  mexico),new mexico,1
+new france (durango  mexico),valladolid (spain),1
+new france (durango  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),new france (durango  mexico),1
+aranjuez (spain),new france (durango  mexico),1
+cerro gordo (durango  mexico) ,new france (durango  mexico),1
+barca (jalisco  mexico),gran quivira (n.m.),1
+barca (jalisco  mexico),hopi (ariz.),1
+barca (jalisco  mexico),fresnillo (zacatecas  mexico),1
+barca (jalisco  mexico),california (new spain),1
+barca (jalisco  mexico),culiacán (sinaloa  mexico),1
+barca (jalisco  mexico),pasaje (durango  mexico) ,1
+barca (jalisco  mexico),san francisco de conchos (chihuahua  mexico),1
+barca (jalisco  mexico),sonora (mexico),1
+barca (jalisco  mexico),guadalajara (jalisco  mexico),1
+barca (jalisco  mexico),michoacán (mexico),1
+barca (jalisco  mexico),nuevo león (mexico),1
+barca (jalisco  mexico),mazapil (zacatecas  mexico),1
+barca (jalisco  mexico),nayarit (mexico),1
+barca (jalisco  mexico),cuitzeo (mexico),1
+barca (jalisco  mexico),jalapa (veracruz  mexico),1
+barca (jalisco  mexico),colima (mexico),1
+barca (jalisco  mexico),galicia (spain),1
+barca (jalisco  mexico),sinaloa (mexico),2
+barca (jalisco  mexico),monterrey (nuevo león  mexico),1
+barca (jalisco  mexico),casas grandes (chihuahua  mexico),1
+barca (jalisco  mexico),new mexico,1
+barca (jalisco  mexico),valladolid (spain),1
+barca (jalisco  mexico),san francisco del oro (chihuahua  mexico),1
+barca (jalisco  mexico),castile (spain),1
+aranjuez (spain),barca (jalisco  mexico),1
+barca (jalisco  mexico),cerro gordo (durango  mexico) ,1
+gran quivira (n.m.),puebla (mexico),1
+hopi (ariz.),puebla (mexico),2
+fresnillo (zacatecas  mexico),puebla (mexico),1
+culiacán (sinaloa  mexico),puebla (mexico),1
+pasaje (durango  mexico) ,puebla (mexico),1
+puebla (mexico),san francisco de conchos (chihuahua  mexico),1
+michoacán (mexico),puebla (mexico),1
+nuevo león (mexico),puebla (mexico),1
+mazapil (zacatecas  mexico),puebla (mexico),1
+nayarit (mexico),puebla (mexico),1
+cuitzeo (mexico),puebla (mexico),1
+jalapa (veracruz  mexico),puebla (mexico),1
+colima (mexico),puebla (mexico),1
+galicia (spain),puebla (mexico),1
+monterrey (nuevo león  mexico),puebla (mexico),1
+casas grandes (chihuahua  mexico),puebla (mexico),1
+new mexico,puebla (mexico),2
+puebla (mexico),valladolid (spain),1
+castile (spain),puebla (mexico),1
+aranjuez (spain),puebla (mexico),2
+gran quivira (n.m.),hopi (ariz.),1
+fresnillo (zacatecas  mexico),gran quivira (n.m.),1
+gran quivira (n.m.),nueva vizcaya (mexico),1
+california (new spain),gran quivira (n.m.),1
+culiacán (sinaloa  mexico),gran quivira (n.m.),1
+gran quivira (n.m.),pasaje (durango  mexico) ,1
+gran quivira (n.m.),san francisco de conchos (chihuahua  mexico),1
+gran quivira (n.m.),sonora (mexico),1
+gran quivira (n.m.),guadalajara (jalisco  mexico),1
+gran quivira (n.m.),michoacán (mexico),1
+gran quivira (n.m.),nuevo león (mexico),1
+gran quivira (n.m.),mazapil (zacatecas  mexico),1
+gran quivira (n.m.),nayarit (mexico),1
+cuitzeo (mexico),gran quivira (n.m.),1
+gran quivira (n.m.),hidalgo del parral (chihuahua  mexico),1
+gran quivira (n.m.),jalapa (veracruz  mexico),1
+colima (mexico),gran quivira (n.m.),1
+galicia (spain),gran quivira (n.m.),1
+gran quivira (n.m.),sinaloa (mexico),1
+gran quivira (n.m.),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),gran quivira (n.m.),1
+gran quivira (n.m.),new mexico,1
+gran quivira (n.m.),valladolid (spain),1
+gran quivira (n.m.),san francisco del oro (chihuahua  mexico),1
+castile (spain),gran quivira (n.m.),1
+aranjuez (spain),gran quivira (n.m.),1
+cerro gordo (durango  mexico) ,gran quivira (n.m.),1
+fresnillo (zacatecas  mexico),hopi (ariz.),1
+california (new spain),hopi (ariz.),2
+culiacán (sinaloa  mexico),hopi (ariz.),1
+hopi (ariz.),pasaje (durango  mexico) ,1
+hopi (ariz.),san francisco de conchos (chihuahua  mexico),1
+hopi (ariz.),sonora (mexico),2
+guadalajara (jalisco  mexico),hopi (ariz.),1
+hopi (ariz.),michoacán (mexico),1
+hopi (ariz.),nuevo león (mexico),1
+hopi (ariz.),mazapil (zacatecas  mexico),1
+hopi (ariz.),nayarit (mexico),1
+cuitzeo (mexico),hopi (ariz.),1
+hopi (ariz.),jalapa (veracruz  mexico),1
+colima (mexico),hopi (ariz.),1
+galicia (spain),hopi (ariz.),1
+hopi (ariz.),sinaloa (mexico),2
+hopi (ariz.),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),hopi (ariz.),1
+hopi (ariz.),new mexico,3
+hopi (ariz.),valladolid (spain),1
+castile (spain),hopi (ariz.),1
+aranjuez (spain),hopi (ariz.),3
+cerro gordo (durango  mexico) ,hopi (ariz.),1
+fresnillo (zacatecas  mexico),nueva vizcaya (mexico),1
+california (new spain),fresnillo (zacatecas  mexico),1
+culiacán (sinaloa  mexico),fresnillo (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),pasaje (durango  mexico) ,1
+fresnillo (zacatecas  mexico),san francisco de conchos (chihuahua  mexico),1
+fresnillo (zacatecas  mexico),sonora (mexico),1
+fresnillo (zacatecas  mexico),guadalajara (jalisco  mexico),1
+fresnillo (zacatecas  mexico),michoacán (mexico),1
+fresnillo (zacatecas  mexico),nuevo león (mexico),1
+fresnillo (zacatecas  mexico),mazapil (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),nayarit (mexico),1
+cuitzeo (mexico),fresnillo (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),hidalgo del parral (chihuahua  mexico),1
+fresnillo (zacatecas  mexico),jalapa (veracruz  mexico),1
+colima (mexico),fresnillo (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),galicia (spain),1
+fresnillo (zacatecas  mexico),sinaloa (mexico),1
+fresnillo (zacatecas  mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),fresnillo (zacatecas  mexico),1
+fresnillo (zacatecas  mexico),new mexico,1
+fresnillo (zacatecas  mexico),valladolid (spain),1
+fresnillo (zacatecas  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),fresnillo (zacatecas  mexico),1
+aranjuez (spain),fresnillo (zacatecas  mexico),1
+cerro gordo (durango  mexico) ,fresnillo (zacatecas  mexico),1
+culiacán (sinaloa  mexico),nueva vizcaya (mexico),4
+michoacán (mexico),nueva vizcaya (mexico),1
+nayarit (mexico),nueva vizcaya (mexico),1
+cuitzeo (mexico),nueva vizcaya (mexico),1
+jalapa (veracruz  mexico),nueva vizcaya (mexico),1
+colima (mexico),nueva vizcaya (mexico),1
+monterrey (nuevo león  mexico),nueva vizcaya (mexico),1
+nueva vizcaya (mexico),valladolid (spain),1
+california (new spain),culiacán (sinaloa  mexico),1
+california (new spain),pasaje (durango  mexico) ,2
+california (new spain),michoacán (mexico),1
+california (new spain),nuevo león (mexico),1
+california (new spain),mazapil (zacatecas  mexico),1
+california (new spain),nayarit (mexico),1
+california (new spain),cuitzeo (mexico),1
+california (new spain),jalapa (veracruz  mexico),1
+california (new spain),colima (mexico),1
+california (new spain),monterrey (nuevo león  mexico),1
+california (new spain),casas grandes (chihuahua  mexico),1
+california (new spain),valladolid (spain),1
+california (new spain),castile (spain),1
+aranjuez (spain),california (new spain),3
+culiacán (sinaloa  mexico),pasaje (durango  mexico) ,1
+culiacán (sinaloa  mexico),san francisco de conchos (chihuahua  mexico),1
+culiacán (sinaloa  mexico),sonora (mexico),4
+culiacán (sinaloa  mexico),guadalajara (jalisco  mexico),4
+culiacán (sinaloa  mexico),michoacán (mexico),1
+culiacán (sinaloa  mexico),nuevo león (mexico),2
+culiacán (sinaloa  mexico),mazapil (zacatecas  mexico),1
+culiacán (sinaloa  mexico),nayarit (mexico),1
+cuitzeo (mexico),culiacán (sinaloa  mexico),1
+culiacán (sinaloa  mexico),hidalgo del parral (chihuahua  mexico),1
+culiacán (sinaloa  mexico),jalapa (veracruz  mexico),1
+colima (mexico),culiacán (sinaloa  mexico),1
+culiacán (sinaloa  mexico),galicia (spain),2
+culiacán (sinaloa  mexico),sinaloa (mexico),5
+culiacán (sinaloa  mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),culiacán (sinaloa  mexico),1
+culiacán (sinaloa  mexico),new mexico,2
+culiacán (sinaloa  mexico),valladolid (spain),1
+culiacán (sinaloa  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),culiacán (sinaloa  mexico),1
+aranjuez (spain),culiacán (sinaloa  mexico),2
+cerro gordo (durango  mexico) ,culiacán (sinaloa  mexico),1
+pasaje (durango  mexico) ,sonora (mexico),2
+michoacán (mexico),pasaje (durango  mexico) ,1
+nuevo león (mexico),pasaje (durango  mexico) ,1
+mazapil (zacatecas  mexico),pasaje (durango  mexico) ,1
+nayarit (mexico),pasaje (durango  mexico) ,1
+cuitzeo (mexico),pasaje (durango  mexico) ,1
+jalapa (veracruz  mexico),pasaje (durango  mexico) ,1
+colima (mexico),pasaje (durango  mexico) ,1
+galicia (spain),pasaje (durango  mexico) ,1
+pasaje (durango  mexico) ,sinaloa (mexico),2
+monterrey (nuevo león  mexico),pasaje (durango  mexico) ,1
+new mexico,pasaje (durango  mexico) ,1
+pasaje (durango  mexico) ,valladolid (spain),1
+pasaje (durango  mexico) ,san francisco del oro (chihuahua  mexico),1
+castile (spain),pasaje (durango  mexico) ,1
+aranjuez (spain),pasaje (durango  mexico) ,1
+michoacán (mexico),san francisco de conchos (chihuahua  mexico),1
+nuevo león (mexico),san francisco de conchos (chihuahua  mexico),1
+mazapil (zacatecas  mexico),san francisco de conchos (chihuahua  mexico),1
+nayarit (mexico),san francisco de conchos (chihuahua  mexico),1
+cuitzeo (mexico),san francisco de conchos (chihuahua  mexico),1
+jalapa (veracruz  mexico),san francisco de conchos (chihuahua  mexico),1
+colima (mexico),san francisco de conchos (chihuahua  mexico),1
+monterrey (nuevo león  mexico),san francisco de conchos (chihuahua  mexico),1
+san francisco de conchos (chihuahua  mexico),valladolid (spain),1
+castile (spain),san francisco de conchos (chihuahua  mexico),1
+aranjuez (spain),san francisco de conchos (chihuahua  mexico),1
+michoacán (mexico),sonora (mexico),1
+mazapil (zacatecas  mexico),sonora (mexico),1
+nayarit (mexico),sonora (mexico),1
+cuitzeo (mexico),sonora (mexico),1
+jalapa (veracruz  mexico),sonora (mexico),1
+colima (mexico),sonora (mexico),1
+monterrey (nuevo león  mexico),sonora (mexico),1
+sonora (mexico),valladolid (spain),1
+aranjuez (spain),sonora (mexico),4
+guadalajara (jalisco  mexico),michoacán (mexico),1
+guadalajara (jalisco  mexico),mazapil (zacatecas  mexico),1
+guadalajara (jalisco  mexico),nayarit (mexico),1
+cuitzeo (mexico),guadalajara (jalisco  mexico),1
+guadalajara (jalisco  mexico),jalapa (veracruz  mexico),1
+colima (mexico),guadalajara (jalisco  mexico),1
+guadalajara (jalisco  mexico),monterrey (nuevo león  mexico),1
+guadalajara (jalisco  mexico),valladolid (spain),1
+aranjuez (spain),guadalajara (jalisco  mexico),2
+michoacán (mexico),nuevo león (mexico),1
+mazapil (zacatecas  mexico),michoacán (mexico),1
+michoacán (mexico),nayarit (mexico),1
+cuitzeo (mexico),michoacán (mexico),1
+hidalgo del parral (chihuahua  mexico),michoacán (mexico),1
+jalapa (veracruz  mexico),michoacán (mexico),1
+colima (mexico),michoacán (mexico),1
+galicia (spain),michoacán (mexico),1
+michoacán (mexico),sinaloa (mexico),1
+michoacán (mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),michoacán (mexico),1
+michoacán (mexico),new mexico,1
+michoacán (mexico),valladolid (spain),1
+michoacán (mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),michoacán (mexico),1
+aranjuez (spain),michoacán (mexico),1
+cerro gordo (durango  mexico) ,michoacán (mexico),1
+mazapil (zacatecas  mexico),nuevo león (mexico),1
+nayarit (mexico),nuevo león (mexico),1
+cuitzeo (mexico),nuevo león (mexico),1
+jalapa (veracruz  mexico),nuevo león (mexico),1
+colima (mexico),nuevo león (mexico),1
+galicia (spain),nuevo león (mexico),2
+monterrey (nuevo león  mexico),nuevo león (mexico),1
+casas grandes (chihuahua  mexico),nuevo león (mexico),1
+nuevo león (mexico),valladolid (spain),1
+castile (spain),nuevo león (mexico),1
+aranjuez (spain),nuevo león (mexico),1
+mazapil (zacatecas  mexico),nayarit (mexico),1
+cuitzeo (mexico),mazapil (zacatecas  mexico),1
+jalapa (veracruz  mexico),mazapil (zacatecas  mexico),1
+colima (mexico),mazapil (zacatecas  mexico),1
+galicia (spain),mazapil (zacatecas  mexico),1
+mazapil (zacatecas  mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),mazapil (zacatecas  mexico),1
+mazapil (zacatecas  mexico),new mexico,1
+mazapil (zacatecas  mexico),valladolid (spain),1
+mazapil (zacatecas  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),mazapil (zacatecas  mexico),1
+aranjuez (spain),mazapil (zacatecas  mexico),1
+cerro gordo (durango  mexico) ,mazapil (zacatecas  mexico),1
+cuitzeo (mexico),nayarit (mexico),1
+jalapa (veracruz  mexico),nayarit (mexico),1
+colima (mexico),nayarit (mexico),1
+galicia (spain),nayarit (mexico),1
+nayarit (mexico),sinaloa (mexico),1
+monterrey (nuevo león  mexico),nayarit (mexico),1
+casas grandes (chihuahua  mexico),nayarit (mexico),1
+nayarit (mexico),new mexico,1
+nayarit (mexico),valladolid (spain),1
+nayarit (mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),nayarit (mexico),1
+aranjuez (spain),nayarit (mexico),1
+cerro gordo (durango  mexico) ,nayarit (mexico),1
+cuitzeo (mexico),hidalgo del parral (chihuahua  mexico),1
+cuitzeo (mexico),jalapa (veracruz  mexico),1
+colima (mexico),cuitzeo (mexico),1
+cuitzeo (mexico),galicia (spain),1
+cuitzeo (mexico),sinaloa (mexico),1
+cuitzeo (mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),cuitzeo (mexico),1
+cuitzeo (mexico),new mexico,1
+cuitzeo (mexico),valladolid (spain),1
+cuitzeo (mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),cuitzeo (mexico),1
+aranjuez (spain),cuitzeo (mexico),1
+cerro gordo (durango  mexico) ,cuitzeo (mexico),1
+hidalgo del parral (chihuahua  mexico),jalapa (veracruz  mexico),1
+colima (mexico),hidalgo del parral (chihuahua  mexico),1
+hidalgo del parral (chihuahua  mexico),monterrey (nuevo león  mexico),1
+hidalgo del parral (chihuahua  mexico),valladolid (spain),1
+castile (spain),hidalgo del parral (chihuahua  mexico),1
+aranjuez (spain),hidalgo del parral (chihuahua  mexico),1
+colima (mexico),jalapa (veracruz  mexico),1
+galicia (spain),jalapa (veracruz  mexico),1
+jalapa (veracruz  mexico),sinaloa (mexico),1
+jalapa (veracruz  mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),jalapa (veracruz  mexico),1
+jalapa (veracruz  mexico),new mexico,1
+jalapa (veracruz  mexico),valladolid (spain),1
+jalapa (veracruz  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),jalapa (veracruz  mexico),1
+aranjuez (spain),jalapa (veracruz  mexico),1
+cerro gordo (durango  mexico) ,jalapa (veracruz  mexico),1
+colima (mexico),galicia (spain),1
+colima (mexico),sinaloa (mexico),1
+colima (mexico),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),colima (mexico),1
+colima (mexico),new mexico,1
+colima (mexico),valladolid (spain),1
+colima (mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),colima (mexico),1
+aranjuez (spain),colima (mexico),1
+cerro gordo (durango  mexico) ,colima (mexico),1
+galicia (spain),monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),galicia (spain),1
+galicia (spain),valladolid (spain),1
+castile (spain),galicia (spain),1
+aranjuez (spain),galicia (spain),1
+monterrey (nuevo león  mexico),sinaloa (mexico),1
+sinaloa (mexico),valladolid (spain),1
+castile (spain),sinaloa (mexico),2
+aranjuez (spain),sinaloa (mexico),5
+casas grandes (chihuahua  mexico),monterrey (nuevo león  mexico),1
+monterrey (nuevo león  mexico),new mexico,1
+monterrey (nuevo león  mexico),valladolid (spain),1
+monterrey (nuevo león  mexico),san francisco del oro (chihuahua  mexico),1
+castile (spain),monterrey (nuevo león  mexico),1
+aranjuez (spain),monterrey (nuevo león  mexico),1
+cerro gordo (durango  mexico) ,monterrey (nuevo león  mexico),1
+casas grandes (chihuahua  mexico),new mexico,1
+casas grandes (chihuahua  mexico),valladolid (spain),1
+casas grandes (chihuahua  mexico),castile (spain),1
+aranjuez (spain),casas grandes (chihuahua  mexico),1
+new mexico,valladolid (spain),1
+castile (spain),new mexico,1
+aranjuez (spain),new mexico,3
+san francisco del oro (chihuahua  mexico),valladolid (spain),1
+castile (spain),valladolid (spain),1
+aranjuez (spain),valladolid (spain),1
+cerro gordo (durango  mexico) ,valladolid (spain),1
+castile (spain),san francisco del oro (chihuahua  mexico),1
+aranjuez (spain),san francisco del oro (chihuahua  mexico),1
+aranjuez (spain),castile (spain),1
+castile (spain),cerro gordo (durango  mexico) ,1
+aranjuez (spain),cerro gordo (durango  mexico) ,1
+galicia (spain),teuricachi (sonora  mexico) ,1
+chametla (sinaloa  mexico) ,teuricachi (sonora  mexico) ,1
+pilares (sonora  mexico) ,teuricachi (sonora  mexico) ,1
+san lorenzo de el escorial (spain),teuricachi (sonora  mexico) ,1
+mexico city (mexico),teuricachi (sonora  mexico) ,1
+rosario (sinaloa  mexico),teuricachi (sonora  mexico) ,1
+california (new spain),teuricachi (sonora  mexico) ,1
+teuricachi (sonora  mexico) ,yaqui river (mexico),1
+chametla (sinaloa  mexico) ,galicia (spain),1
+galicia (spain),pilares (sonora  mexico) ,1
+galicia (spain),san lorenzo de el escorial (spain),2
+galicia (spain),rosario (sinaloa  mexico),2
+galicia (spain),yaqui river (mexico),1
+chametla (sinaloa  mexico) ,guadalajara (jalisco  mexico),1
+guadalajara (jalisco  mexico),pilares (sonora  mexico) ,1
+guadalajara (jalisco  mexico),yaqui river (mexico),1
+chametla (sinaloa  mexico) ,pilares (sonora  mexico) ,1
+chametla (sinaloa  mexico) ,sinaloa (mexico),1
+chametla (sinaloa  mexico) ,nueva vizcaya (mexico),1
+chametla (sinaloa  mexico) ,madrid (spain),1
+chametla (sinaloa  mexico) ,san lorenzo de el escorial (spain),1
+chametla (sinaloa  mexico) ,mexico city (mexico),1
+chametla (sinaloa  mexico) ,rosario (sinaloa  mexico),1
+california (new spain),chametla (sinaloa  mexico) ,1
+chametla (sinaloa  mexico) ,yaqui river (mexico),1
+pilares (sonora  mexico) ,san lorenzo de el escorial (spain),1
+mexico city (mexico),pilares (sonora  mexico) ,1
+pilares (sonora  mexico) ,rosario (sinaloa  mexico),1
+california (new spain),pilares (sonora  mexico) ,1
+pilares (sonora  mexico) ,yaqui river (mexico),1
+san lorenzo de el escorial (spain),sinaloa (mexico),4
+mexico city (mexico),sinaloa (mexico),1
+sinaloa (mexico),yaqui river (mexico),2
+nueva vizcaya (mexico),yaqui river (mexico),2
+madrid (spain),yaqui river (mexico),2
+mexico city (mexico),san lorenzo de el escorial (spain),1
+rosario (sinaloa  mexico),san lorenzo de el escorial (spain),1
+california (new spain),san lorenzo de el escorial (spain),1
+san lorenzo de el escorial (spain),yaqui river (mexico),1
+mexico city (mexico),rosario (sinaloa  mexico),1
+california (new spain),mexico city (mexico),1
+mexico city (mexico),yaqui river (mexico),1
+rosario (sinaloa  mexico),yaqui river (mexico),1
+california (new spain),yaqui river (mexico),2
+huejotzingo (puebla  mexico),sinaloa (mexico),1
+huejotzingo (puebla  mexico),nueva vizcaya (mexico),1
+huejotzingo (puebla  mexico),madrid (spain),1
+huejotzingo (puebla  mexico),san ildefonso (sonora  mexico) ,1
+seville (spain),sonora (mexico),1
+seville (spain),sinaloa (mexico),1
+corodéguachi (sonora  mexico) ,seville (spain),1
+ostimuri (mexico) ,seville (spain),1
+gila river (n.m. and ariz.),seville (spain),1
+rosario (sinaloa  mexico),seville (spain),1
+culiacán (sinaloa  mexico),seville (spain),1
+corodéguachi (sonora  mexico) ,sonora (mexico),4
+corodéguachi (sonora  mexico) ,guadalajara (jalisco  mexico),1
+corodéguachi (sonora  mexico) ,sinaloa (mexico),4
+corodéguachi (sonora  mexico) ,nueva vizcaya (mexico),2
+corodéguachi (sonora  mexico) ,ostimuri (mexico) ,1
+corodéguachi (sonora  mexico) ,gila river (n.m. and ariz.),3
+corodéguachi (sonora  mexico) ,rosario (sinaloa  mexico),1
+corodéguachi (sonora  mexico) ,culiacán (sinaloa  mexico),1
+gila river (n.m. and ariz.),ostimuri (mexico) ,1
+culiacán (sinaloa  mexico),ostimuri (mexico) ,4
+gila river (n.m. and ariz.),rosario (sinaloa  mexico),1
+culiacán (sinaloa  mexico),rosario (sinaloa  mexico),4
+sonora (mexico),terrenate (sonora  mexico),3
+corodéguachi (sonora  mexico) ,hopi (ariz.),2
+hopi (ariz.),terrenate (sonora  mexico),1
+corodéguachi (sonora  mexico) ,terrenate (sonora  mexico),2
+corodéguachi (sonora  mexico) ,new mexico,2
+california (new spain),corodéguachi (sonora  mexico) ,2
+aranjuez (spain),corodéguachi (sonora  mexico) ,3
+sinaloa (mexico),terrenate (sonora  mexico),2
+new mexico,terrenate (sonora  mexico),1
+california (new spain),terrenate (sonora  mexico),2
+aranjuez (spain),terrenate (sonora  mexico),1
+nueva andalucía (colombia) ,sonora (mexico),1
+nueva andalucía (colombia) ,terrenate (sonora  mexico),1
+pimería alta (mexico and ariz.),terrenate (sonora  mexico),2
+madrid (spain),terrenate (sonora  mexico),2
+nueva andalucía (colombia) ,pimería alta (mexico and ariz.),1
+madrid (spain),nueva andalucía (colombia) ,1
+corodéguachi (sonora  mexico) ,janos (chihuahua  mexico),1
+janos (chihuahua  mexico),sierra azul (mexico) ,1
+janos (chihuahua  mexico),pimería alta (mexico and ariz.),1
+janos (chihuahua  mexico),rio grande,1
+colorado river,janos (chihuahua  mexico),1
+corodéguachi (sonora  mexico) ,durango (durango  mexico),1
+durango (durango  mexico),sierra azul (mexico) ,1
+hopi (ariz.),sierra azul (mexico) ,1
+hopi (ariz.),pimería alta (mexico and ariz.),1
+hopi (ariz.),rio grande,1
+colorado river,hopi (ariz.),1
+corodéguachi (sonora  mexico) ,sierra azul (mexico) ,1
+corodéguachi (sonora  mexico) ,pimería alta (mexico and ariz.),3
+corodéguachi (sonora  mexico) ,rio grande,1
+colorado river,corodéguachi (sonora  mexico) ,2
+corodéguachi (sonora  mexico) ,puebla (mexico),1
+pimería alta (mexico and ariz.),sierra azul (mexico) ,1
+new mexico,sierra azul (mexico) ,1
+rio grande,sierra azul (mexico) ,1
+colorado river,sierra azul (mexico) ,1
+gila river (n.m. and ariz.),sierra azul (mexico) ,1
+puebla (mexico),sierra azul (mexico) ,1
+aranjuez (spain),sierra azul (mexico) ,1
+new mexico,pimería alta (mexico and ariz.),1
+pimería alta (mexico and ariz.),puebla (mexico),1
+aranjuez (spain),pimería alta (mexico and ariz.),3
+colorado river,new mexico,1
+puebla (mexico),rio grande,1
+aranjuez (spain),rio grande,1
+aranjuez (spain),colorado river,1
+buen retiro (madrid  spain),pimería alta (mexico and ariz.),4
+aguacaliente (mexico) ,sonora (mexico),1
+san antonio de metopore (mexico) ,sonora (mexico),1
+aguacaliente (mexico) ,corodéguachi (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,san antonio de metopore (mexico) ,1
+aguacaliente (mexico) ,pimería alta (mexico and ariz.),1
+pimería alta (mexico and ariz.),san antonio de metopore (mexico) ,1
+aguacaliente (mexico) ,aranjuez (spain),1
+aranjuez (spain),san antonio de metopore (mexico) ,1
+aguacaliente (mexico) ,san antonio de metopore (mexico) ,1
+mayo river (sonora  mexico) ,sonora (mexico),1
+sonora (mexico),álamos (sonora  mexico),1
+sonora (mexico),tecoripa (sonora  mexico) ,1
+bayoreca (mexico) ,sonora (mexico),1
+mayo river (sonora  mexico) ,álamos (sonora  mexico),1
+mayo river (sonora  mexico) ,sinaloa (mexico),1
+mayo river (sonora  mexico) ,tecoripa (sonora  mexico) ,1
+mayo river (sonora  mexico) ,nueva vizcaya (mexico),1
+mayo river (sonora  mexico) ,ostimuri (mexico) ,1
+bayoreca (mexico) ,mayo river (sonora  mexico) ,1
+buen retiro (madrid  spain),mayo river (sonora  mexico) ,1
+mayo river (sonora  mexico) ,rosario (sinaloa  mexico),1
+culiacán (sinaloa  mexico),mayo river (sonora  mexico) ,1
+sinaloa (mexico),álamos (sonora  mexico),1
+tecoripa (sonora  mexico) ,álamos (sonora  mexico),1
+nueva vizcaya (mexico),álamos (sonora  mexico),1
+ostimuri (mexico) ,álamos (sonora  mexico),1
+bayoreca (mexico) ,álamos (sonora  mexico),1
+buen retiro (madrid  spain),álamos (sonora  mexico),1
+rosario (sinaloa  mexico),álamos (sonora  mexico),1
+culiacán (sinaloa  mexico),álamos (sonora  mexico),1
+sinaloa (mexico),tecoripa (sonora  mexico) ,1
+bayoreca (mexico) ,sinaloa (mexico),1
+nueva vizcaya (mexico),tecoripa (sonora  mexico) ,1
+ostimuri (mexico) ,tecoripa (sonora  mexico) ,1
+bayoreca (mexico) ,tecoripa (sonora  mexico) ,1
+buen retiro (madrid  spain),tecoripa (sonora  mexico) ,1
+rosario (sinaloa  mexico),tecoripa (sonora  mexico) ,1
+culiacán (sinaloa  mexico),tecoripa (sonora  mexico) ,1
+bayoreca (mexico) ,nueva vizcaya (mexico),1
+bayoreca (mexico) ,ostimuri (mexico) ,1
+buen retiro (madrid  spain),ostimuri (mexico) ,1
+bayoreca (mexico) ,buen retiro (madrid  spain),1
+bayoreca (mexico) ,rosario (sinaloa  mexico),1
+bayoreca (mexico) ,culiacán (sinaloa  mexico),1
+buen retiro (madrid  spain),rosario (sinaloa  mexico),1
+buen retiro (madrid  spain),culiacán (sinaloa  mexico),1
+presidio de san pedro (mexico) ,sinaloa (mexico),1
+madrid (spain),presidio de san pedro (mexico) ,1
+madrid (spain),tiburón island (sonora  mexico),3
+chihuahua (chihuahua  mexico),pimería alta (mexico and ariz.),1
+chihuahua (chihuahua  mexico),islas marías (mexico),1
+chihuahua (chihuahua  mexico),gila river (n.m. and ariz.),1
+chihuahua (chihuahua  mexico),yaqui river (mexico),1
+caborca (sonora  mexico),chihuahua (chihuahua  mexico),1
+chihuahua (chihuahua  mexico),guevavi (ariz.),1
+chihuahua (chihuahua  mexico),tiburón island (sonora  mexico),1
+chihuahua (chihuahua  mexico),sonora (mexico),1
+chihuahua (chihuahua  mexico),tubutama (sonora  mexico),1
+chihuahua (chihuahua  mexico),terrenate (sonora  mexico),1
+chihuahua (chihuahua  mexico),santa ana (sonora  mexico),1
+chihuahua (chihuahua  mexico),colorado river,1
+chihuahua (chihuahua  mexico),soamca (sonora  mexico) ,1
+chihuahua (chihuahua  mexico),corodéguachi (sonora  mexico) ,1
+california (new spain),chihuahua (chihuahua  mexico),1
+mapimí (durango  mexico),pimería alta (mexico and ariz.),1
+islas marías (mexico),pimería alta (mexico and ariz.),2
+el gallo (durango  mexico) ,pimería alta (mexico and ariz.),1
+pimería alta (mexico and ariz.),yaqui river (mexico),1
+caborca (sonora  mexico),pimería alta (mexico and ariz.),3
+guevavi (ariz.),pimería alta (mexico and ariz.),1
+pasaje (durango  mexico) ,pimería alta (mexico and ariz.),1
+pimería alta (mexico and ariz.),presidio del pasaje,1
+pimería alta (mexico and ariz.),tubutama (sonora  mexico),3
+pimería alta (mexico and ariz.),santa ana (sonora  mexico),1
+pimería alta (mexico and ariz.),soamca (sonora  mexico) ,1
+pimería alta (mexico and ariz.),valle de allende (chihuahua  mexico),1
+california (new spain),pimería alta (mexico and ariz.),3
+cerro gordo (durango  mexico) ,pimería alta (mexico and ariz.),1
+islas marías (mexico),mapimí (durango  mexico),1
+gila river (n.m. and ariz.),mapimí (durango  mexico),1
+mapimí (durango  mexico),yaqui river (mexico),1
+caborca (sonora  mexico),mapimí (durango  mexico),1
+guevavi (ariz.),mapimí (durango  mexico),1
+mapimí (durango  mexico),tiburón island (sonora  mexico),1
+mapimí (durango  mexico),sonora (mexico),1
+mapimí (durango  mexico),tubutama (sonora  mexico),1
+mapimí (durango  mexico),terrenate (sonora  mexico),1
+buen retiro (madrid  spain),mapimí (durango  mexico),1
+mapimí (durango  mexico),santa ana (sonora  mexico),1
+colorado river,mapimí (durango  mexico),1
+mapimí (durango  mexico),soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,mapimí (durango  mexico),1
+california (new spain),mapimí (durango  mexico),1
+islas marías (mexico),madrid (spain),1
+caborca (sonora  mexico),madrid (spain),1
+guevavi (ariz.),madrid (spain),1
+madrid (spain),tubutama (sonora  mexico),1
+madrid (spain),soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,madrid (spain),2
+gila river (n.m. and ariz.),islas marías (mexico),1
+el gallo (durango  mexico) ,islas marías (mexico),1
+islas marías (mexico),yaqui river (mexico),1
+caborca (sonora  mexico),islas marías (mexico),1
+islas marías (mexico),nueva vizcaya (mexico),1
+guevavi (ariz.),islas marías (mexico),1
+islas marías (mexico),tiburón island (sonora  mexico),1
+islas marías (mexico),pasaje (durango  mexico) ,1
+islas marías (mexico),presidio del pasaje,1
+islas marías (mexico),sonora (mexico),1
+islas marías (mexico),tubutama (sonora  mexico),1
+islas marías (mexico),terrenate (sonora  mexico),1
+buen retiro (madrid  spain),islas marías (mexico),2
+islas marías (mexico),santa ana (sonora  mexico),1
+colorado river,islas marías (mexico),2
+islas marías (mexico),soamca (sonora  mexico) ,1
+islas marías (mexico),sinaloa (mexico),1
+corodéguachi (sonora  mexico) ,islas marías (mexico),1
+islas marías (mexico),valle de allende (chihuahua  mexico),1
+california (new spain),islas marías (mexico),2
+cerro gordo (durango  mexico) ,islas marías (mexico),1
+gila river (n.m. and ariz.),yaqui river (mexico),1
+caborca (sonora  mexico),gila river (n.m. and ariz.),1
+gila river (n.m. and ariz.),guevavi (ariz.),1
+gila river (n.m. and ariz.),tubutama (sonora  mexico),1
+gila river (n.m. and ariz.),terrenate (sonora  mexico),1
+gila river (n.m. and ariz.),santa ana (sonora  mexico),1
+gila river (n.m. and ariz.),soamca (sonora  mexico) ,1
+gila river (n.m. and ariz.),valle de allende (chihuahua  mexico),1
+el gallo (durango  mexico) ,yaqui river (mexico),1
+caborca (sonora  mexico),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,guevavi (ariz.),1
+el gallo (durango  mexico) ,tiburón island (sonora  mexico),1
+el gallo (durango  mexico) ,tubutama (sonora  mexico),1
+el gallo (durango  mexico) ,terrenate (sonora  mexico),1
+buen retiro (madrid  spain),el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,santa ana (sonora  mexico),1
+colorado river,el gallo (durango  mexico) ,1
+el gallo (durango  mexico) ,soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,el gallo (durango  mexico) ,1
+caborca (sonora  mexico),yaqui river (mexico),1
+guevavi (ariz.),yaqui river (mexico),1
+tiburón island (sonora  mexico),yaqui river (mexico),1
+pasaje (durango  mexico) ,yaqui river (mexico),1
+presidio del pasaje,yaqui river (mexico),1
+sonora (mexico),yaqui river (mexico),1
+tubutama (sonora  mexico),yaqui river (mexico),1
+terrenate (sonora  mexico),yaqui river (mexico),1
+buen retiro (madrid  spain),yaqui river (mexico),1
+santa ana (sonora  mexico),yaqui river (mexico),1
+colorado river,yaqui river (mexico),1
+soamca (sonora  mexico) ,yaqui river (mexico),1
+corodéguachi (sonora  mexico) ,yaqui river (mexico),1
+valle de allende (chihuahua  mexico),yaqui river (mexico),1
+cerro gordo (durango  mexico) ,yaqui river (mexico),1
+caborca (sonora  mexico),nueva vizcaya (mexico),1
+caborca (sonora  mexico),guevavi (ariz.),1
+caborca (sonora  mexico),tiburón island (sonora  mexico),2
+caborca (sonora  mexico),pasaje (durango  mexico) ,1
+caborca (sonora  mexico),presidio del pasaje,1
+caborca (sonora  mexico),sonora (mexico),1
+caborca (sonora  mexico),tubutama (sonora  mexico),3
+caborca (sonora  mexico),terrenate (sonora  mexico),1
+buen retiro (madrid  spain),caborca (sonora  mexico),1
+caborca (sonora  mexico),santa ana (sonora  mexico),1
+caborca (sonora  mexico),colorado river,1
+caborca (sonora  mexico),soamca (sonora  mexico) ,1
+caborca (sonora  mexico),sinaloa (mexico),3
+caborca (sonora  mexico),corodéguachi (sonora  mexico) ,1
+caborca (sonora  mexico),valle de allende (chihuahua  mexico),1
+caborca (sonora  mexico),california (new spain),2
+caborca (sonora  mexico),cerro gordo (durango  mexico) ,1
+guevavi (ariz.),nueva vizcaya (mexico),1
+nueva vizcaya (mexico),tubutama (sonora  mexico),1
+nueva vizcaya (mexico),terrenate (sonora  mexico),1
+nueva vizcaya (mexico),soamca (sonora  mexico) ,1
+guevavi (ariz.),tiburón island (sonora  mexico),1
+guevavi (ariz.),pasaje (durango  mexico) ,1
+guevavi (ariz.),presidio del pasaje,1
+guevavi (ariz.),sonora (mexico),1
+guevavi (ariz.),tubutama (sonora  mexico),1
+guevavi (ariz.),terrenate (sonora  mexico),1
+buen retiro (madrid  spain),guevavi (ariz.),1
+guevavi (ariz.),santa ana (sonora  mexico),1
+colorado river,guevavi (ariz.),1
+guevavi (ariz.),soamca (sonora  mexico) ,1
+guevavi (ariz.),sinaloa (mexico),1
+corodéguachi (sonora  mexico) ,guevavi (ariz.),1
+guevavi (ariz.),valle de allende (chihuahua  mexico),1
+california (new spain),guevavi (ariz.),1
+cerro gordo (durango  mexico) ,guevavi (ariz.),1
+pasaje (durango  mexico) ,tiburón island (sonora  mexico),1
+presidio del pasaje,tiburón island (sonora  mexico),1
+tiburón island (sonora  mexico),tubutama (sonora  mexico),2
+terrenate (sonora  mexico),tiburón island (sonora  mexico),1
+buen retiro (madrid  spain),tiburón island (sonora  mexico),1
+santa ana (sonora  mexico),tiburón island (sonora  mexico),1
+soamca (sonora  mexico) ,tiburón island (sonora  mexico),1
+corodéguachi (sonora  mexico) ,tiburón island (sonora  mexico),1
+tiburón island (sonora  mexico),valle de allende (chihuahua  mexico),1
+california (new spain),tiburón island (sonora  mexico),1
+cerro gordo (durango  mexico) ,tiburón island (sonora  mexico),1
+pasaje (durango  mexico) ,tubutama (sonora  mexico),1
+pasaje (durango  mexico) ,terrenate (sonora  mexico),1
+buen retiro (madrid  spain),pasaje (durango  mexico) ,1
+pasaje (durango  mexico) ,santa ana (sonora  mexico),1
+colorado river,pasaje (durango  mexico) ,1
+pasaje (durango  mexico) ,soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,pasaje (durango  mexico) ,1
+presidio del pasaje,sonora (mexico),1
+presidio del pasaje,tubutama (sonora  mexico),1
+presidio del pasaje,terrenate (sonora  mexico),1
+buen retiro (madrid  spain),presidio del pasaje,1
+presidio del pasaje,santa ana (sonora  mexico),1
+colorado river,presidio del pasaje,1
+presidio del pasaje,soamca (sonora  mexico) ,1
+presidio del pasaje,sinaloa (mexico),1
+corodéguachi (sonora  mexico) ,presidio del pasaje,1
+california (new spain),presidio del pasaje,1
+sonora (mexico),tubutama (sonora  mexico),1
+soamca (sonora  mexico) ,sonora (mexico),1
+terrenate (sonora  mexico),tubutama (sonora  mexico),1
+buen retiro (madrid  spain),tubutama (sonora  mexico),1
+santa ana (sonora  mexico),tubutama (sonora  mexico),1
+colorado river,tubutama (sonora  mexico),1
+soamca (sonora  mexico) ,tubutama (sonora  mexico),1
+sinaloa (mexico),tubutama (sonora  mexico),3
+corodéguachi (sonora  mexico) ,tubutama (sonora  mexico),1
+tubutama (sonora  mexico),valle de allende (chihuahua  mexico),1
+california (new spain),tubutama (sonora  mexico),2
+cerro gordo (durango  mexico) ,tubutama (sonora  mexico),1
+buen retiro (madrid  spain),terrenate (sonora  mexico),1
+santa ana (sonora  mexico),terrenate (sonora  mexico),1
+colorado river,terrenate (sonora  mexico),1
+soamca (sonora  mexico) ,terrenate (sonora  mexico),1
+terrenate (sonora  mexico),valle de allende (chihuahua  mexico),1
+cerro gordo (durango  mexico) ,terrenate (sonora  mexico),1
+buen retiro (madrid  spain),santa ana (sonora  mexico),1
+buen retiro (madrid  spain),colorado river,2
+buen retiro (madrid  spain),soamca (sonora  mexico) ,1
+buen retiro (madrid  spain),corodéguachi (sonora  mexico) ,2
+buen retiro (madrid  spain),valle de allende (chihuahua  mexico),1
+buen retiro (madrid  spain),california (new spain),2
+santa ana (sonora  mexico),soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,santa ana (sonora  mexico),1
+colorado river,soamca (sonora  mexico) ,1
+sinaloa (mexico),soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,soamca (sonora  mexico) ,1
+soamca (sonora  mexico) ,valle de allende (chihuahua  mexico),1
+california (new spain),soamca (sonora  mexico) ,1
+cerro gordo (durango  mexico) ,soamca (sonora  mexico) ,1
+corodéguachi (sonora  mexico) ,valle de allende (chihuahua  mexico),1
+cerro gordo (durango  mexico) ,corodéguachi (sonora  mexico) ,1
+cuba,galicia (spain),1
+galicia (spain),guatemala,1
+galicia (spain),havana (cuba),1
+cuba,guadalajara (jalisco  mexico),1
+guadalajara (jalisco  mexico),guatemala,1
+guadalajara (jalisco  mexico),havana (cuba),1
+chihuahua (chihuahua  mexico),cuba,1
+chihuahua (chihuahua  mexico),guatemala,1
+chihuahua (chihuahua  mexico),havana (cuba),1
+cuba,guatemala,1
+buen retiro (madrid  spain),cuba,1
+cuba,san lorenzo de el escorial (spain),1
+cuba,peru,1
+guatemala,madrid (spain),1
+buen retiro (madrid  spain),guatemala,1
+guatemala,san lorenzo de el escorial (spain),1
+guatemala,peru,1
+guatemala,havana (cuba),1
+buen retiro (madrid  spain),san lorenzo de el escorial (spain),1
+buen retiro (madrid  spain),peru,1
+buen retiro (madrid  spain),havana (cuba),1
+peru,san lorenzo de el escorial (spain),1
+havana (cuba),san lorenzo de el escorial (spain),1
+havana (cuba),peru,1
+aranjuez (spain),tubutama (sonora  mexico),1
+aranjuez (spain),caborca (sonora  mexico),1
+castile (spain),corodéguachi (sonora  mexico) ,1
+buen retiro (madrid  spain),castile (spain),1
+durango (durango  mexico),islas marías (mexico),1
+guadalajara (jalisco  mexico),pimería alta (mexico and ariz.),2
+guadalajara (jalisco  mexico),islas marías (mexico),1
+cádiz (spain),sinaloa (mexico),1
+cádiz (spain),madrid (spain),1
+cádiz (spain),puebla (mexico),1
+barca (jalisco  mexico),cádiz (spain),1
+guadalajara (jalisco  mexico),tubutama (sonora  mexico),1
+san lorenzo de el escorial (spain),tubutama (sonora  mexico),1
+caborca (sonora  mexico),guadalajara (jalisco  mexico),1
+guadalajara (jalisco  mexico),tiburón island (sonora  mexico),1
+pimería alta (mexico and ariz.),san lorenzo de el escorial (spain),1
+caborca (sonora  mexico),san lorenzo de el escorial (spain),1
+san lorenzo de el escorial (spain),tiburón island (sonora  mexico),1
+madrid (spain),san sabá (tex.) ,1
+madrid (spain),san xavier (ariz.) ,1
+houston (texas),san sabá (tex.) ,1
+houston (texas),san xavier (ariz.) ,1
+san sabá (tex.) ,san xavier (ariz.) ,1
+aranjuez (spain),ostimuri (mexico) ,1
+aranjuez (spain),rosario (sinaloa  mexico),1
+madrid (spain),san miguel de horcasitas (sonora  mexico),1
+san sabá (tex.) ,sinaloa (mexico),1
+san sabá (tex.) ,sonora (mexico),1
+aranjuez (spain),san sabá (tex.) ,1
+el pardo (spain),galicia (spain),1
+galicia (spain),ostimuri (mexico) ,1
+el pardo (spain),sonora (mexico),1
+coahuila (mexico),el pardo (spain),1
+el pardo (spain),nuevo león (mexico),1
+el pardo (spain),ostimuri (mexico) ,1
+el pardo (spain),new mexico,1
+el pardo (spain),madrid (spain),1
+el pardo (spain),rosario (sinaloa  mexico),1
+culiacán (sinaloa  mexico),el pardo (spain),1
+coahuila (mexico),ostimuri (mexico) ,1
+coahuila (mexico),rosario (sinaloa  mexico),1
+nuevo león (mexico),ostimuri (mexico) ,1
+nuevo león (mexico),rosario (sinaloa  mexico),1
+new mexico,ostimuri (mexico) ,1
+new mexico,rosario (sinaloa  mexico),1
+mexico city (mexico),san ildefonso (sonora  mexico) ,1
